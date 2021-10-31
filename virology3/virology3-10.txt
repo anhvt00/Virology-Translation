@@ -1,0 +1,58 @@
+ 
+
+  
+
+Structure 119
+
+B
+Flavivirus
+
+   
+
+Alphavirus
+
+Figure 4.25 Conserved topology and regular packing of envelope proteins of small, (+) strand RNA viruses. (A) Ribbon diagrams
+of the flavivirus envelope (E) protein dimer (top) and the alphavirus El/E2 heterodimer (bottom), with one E and the E2 subunit shown in gray.
+Conserved domains of E and El are colored red, yellow, and blue with the fusion loops required for entry in orange. The membrane is below the fla-
+vivirus dimer, in the plane of the figure, whereas it is perpendicular to the alphavirus E1/E2 heterodimer as indicated. The parallel and angled ori-
+entations to the membrane of the flavivirus and alphavirus envelope proteins, respectively, result in the very different appearances of these particles
+shown in panel B. (B) Surface renderings on the same scale, showing the regular packing of flavivirus and alphavirus envelope protein dimers. The
+dimers related by two-, three-, and fivefold axes of icosahedral symmetry are colored blue, pale yellow, and mauve, respectively, except for the cen-
+tral dimer depicted, which is colored as in panel A. In the 80 spikes of the alphavirus envelope, E2 is shown gray and El colored by domain as in
+panel A. Adapted from Vaney MC, Rey FA. 2011. Cell Microbiol 13:1451-1459, with permission. Courtesy of F.A. Rey, Institut Pasteur.
+
+Because the internal capsids or nucleocapsids of these mul-
+tilayered enveloped viruses are not in direct contact with the
+envelope, the organization and symmetry of internal struc-
+tures are not evident from the external appearance of the sur-
+face glycoprotein layer. Nor does the organization of these
+proteins reflect the symmetry of the capsid. For example, the
+outer surface of all retroviruses appears roughly spherical
+with an array of projecting knobs or spikes, regardless of
+whether the internal core is spherical, cylindrical, or cone
+shaped. Likewise, influenza virus particles, which contain he-
+lical nucleocapsids, are generally roughly spherical but are
+highly pleomorphic with long, filamentous forms common in
+clinical isolates (Box 4.10).
+
+Internal proteins that contact the viral envelope are not
+embedded within the lipid bilayer but rather bind to its inner
+
+face. Such viral proteins are targeted to, and interact with,
+membranes by means of specific signals, which are described
+in more detail in Chapter 12.
+
+Large Viruses with Multiple
+
+Structural Elements
+
+Virus particles that house large DNA genomes are structur-
+ally much more intricate than any considered in previous
+sections. Such particles comprise obviously distinct compo-
+nents with different symmetries and/or multiple layers and in
+some cases exhibit architectures that do not appear to be
+based on helical or icosahedral symmetry. In this section, we
+illustrate various ways in which multiple structural elements
+can be combined. As we shall see, some of these elements are
+dedicated to specific functions.
+

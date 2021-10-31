@@ -1,0 +1,132 @@
+Structure 121
+
+BOX
+DISCUSSION
+The extreme pleomorphism of influenza A virus,
+a genetically determined trait of unknown function
+
+ 
+
+Some enveloped viruses vary considerably in
+size and shape. For example, the particles of
+paramyxoviruses, such as measles and Sendai
+viruses, range in size from 120 to up to 540 nm
+in diameter and may contain multiple copies
+of the (-) strand RNA genome in helical nu-
+cleocapsids of different pitch. Influenza A vi-
+rus particles exhibit even more extreme
+pleomorphism: they appear spherical, ellipti-
+cal, or filamentous, and all forms come in a
+wide range of sizes (see the figure). Clinical
+isolates are primarily filamentous but adopt
+the spherical morphologies when adapted to
+propagation in the laboratory, particularly in
+chicken eggs.
+
+Several lines of evidence indicate that the
+filamentous phenotype is genetically deter-
+mined. For example, the particles of some
+influenza A virus isolates are primarily fila-
+mentous, whereas those of other isolates are
+not. Furthermore, genetic experiments have
+identified specific residues in the matrix pro-
+teins (MI and M2) required for assembly of
+
+filamentous particles. Deletion of the internal
+domain of the NA glycoprotein also induces
+formation of elongated particles, a phenotype
+exacerbated by concurrent removal of the cy-
+toplasmic tail of the major viral glycoprotein
+HA. These observations imply that matrix-
+glycoprotein interactions during assembly
+govern the morphology of influenza A virus
+particles. However, the mechanism underly-
+ing the “choice” between assembly of filamen-
+tous versus spherical particles is not well
+understood and the influence of host cell
+components remains obscure. Furthermore,
+the physiological significance of the filamen-
+tous particles is not known, despite their pre-
+dominance in clinical isolates. It has been
+speculated that these forms might facilitate
+cell-to-cell transmission of virus particles
+through the respiratory mucosa of infected
+hosts.
+
+Badham MD, Rossman JS. 2016. Filamentous influ-
+enza viruses. Curr Clin Microbiol Rep 3:155-161.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cryo-electron tomogram sections of influ-
+enza A virus particles (strain PR8). Bar = 50 nm.
+Reprinted from Nayak DB et al. 2009. Virus Res
+143:147-161, with permission. Courtesy of D.B.
+Nayak, University of California, Los Angeles.
+
+In contrast to the head, the ~100-nm-long tail, which
+comprises two protein layers, exhibits helical symmetry (Fig.
+4.26A). The outer layer is a contractile sheath that functions
+in injection of the viral genome into host cells. The tail is con-
+nected to the head via a hexameric ring and at its other end to
+a complex, dome-shaped structure termed the baseplate,
+where it carries the cell-puncturing spike. Both long and
+short tail fibers project from the baseplate. The former, which
+are bent, are the primary receptor-binding structures of bac-
+teriophage T4. As discussed in Chapter 5, remarkable confor-
+mational changes induced upon receptor binding by the tips
+of the long fibers are transmitted via the baseplate to initiate
+injection of the DNA genome.
+
+Herpesviruses
+
+Members of the Herpesviridae exhibit a number of unusual
+architectural features. More than half of the >80 genes of her-
+pes simplex virus type 1 encode proteins found in the large
+(~200-nm-diameter) virus particles. These proteins are com-
+ponents of the envelope from which glycoprotein spikes pro-
+ject or of two distinct internal structures. The latter are the
+nucleocapsid surrounding the DNA genome and the protein-
+aceous layer encasing this structure, called the tegument
+
+(Fig. 4.27A). Until recently we possessed only relatively low-
+resolution views (at best, ~7 A) of herpesviral particles. Technical
+advances in cryo-EM image reconstruction, including relaxa-
+tion of icosahedral symmetry restraints, produced high-reso-
+lution structures of herpes simplex virus type 1 and type 2
+particles (3.2 to 3.5 A), by far the largest virus particles to be
+visualized in such detail. These remarkable achievements
+confirmed architectural elements of the nucleocapsid shared
+with smaller virus particles, but also revealed new features.
+
+A single protein (VP5) forms both the hexons and the pen-
+tons of the T = 16 icosahedral capsid of herpes simplex virus
+type 1 (Fig. 4.27B). Like the structural units of the smaller sim-
+ian virus 40 capsid, these VP5-containing assemblies make
+direct contact with one another. However, the segments of
+VP5 subunits that form the nucleocapsid floor adopt quite dif-
+ferent conformations in the pentons and hexons (Fig. 4.27B).
+Similarly, specific VP5 regions display distinct arrangements
+in hexons that abut pentons and those surrounded entirely by
+other hexons. These differences optimize interactions among
+the structural units. The large herpesviral capsid, like that of
+adenoviruses, is further stabilized by additional proteins, in-
+cluding two that form triplexes that link the major structural
+units. A second property shared with polyomaviruses (and
+

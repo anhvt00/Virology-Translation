@@ -1,0 +1,44 @@
+98 — Chapter 4
+
+A Axial rise per subunit, p
+Subunit
+Helix subunit Helix
+Number of units/turn
+u=3
+B Tobacco mosaic virus C Vesicular stomatitis virus
+
+   
+
+-—~ Coat protein
+subunit
+
+180 nm
+(4) RNA Trunk
+
+Base
+
+ 
+
+  
+
+Fam
+
+Snm
+
+Figure 4.6 Virus structures with helical symmetry. (A) Schematic illustration of a helical particle, indicating the individual subunits, their
+interaction to form a helical turn, the helix, and the helical parameters p (axial rise per subunit) and ut (the number of subunits per turn). The pitch
+of the helix, P, is given by the formula P = p x 1. (B) Tobacco mosaic virus. (Left) A cryo-EM reconstruction at <5-A resolution of a 70-nm segment
+of this particle. Each helical turn contains 16.3 protein molecules. Reprinted from Sachse J et al. 2007. J Mol Biol 371:812-835, with permission.
+Courtesy of N. Grigorieff, Leibniz-Institut fiir Alterforschung, Jena, Germany. (Right) The regular interaction of the (+) strand RNA genome with
+coat protein subunits is illustrated in the model based on an X-ray diffraction structure. Data from Namba K et al. 1989. J Mol Biol 208:307-325.
+(C) Vesicular stomatitis virus. Representative averages of cryo-EM images of the central trunk, conical tip, and flat base of this bullet-shaped virus
+particle are shown at the left. The trunk and tip were analyzed and reconstructed separately to form the montage model shown on the right, with N
+and M proteins in green and blue, respectively, and the membrane in purple and pink. The N protein packages the (-) strand RNA genome in a left-
+handed helix. The crystal structure of N determined in an N-RNA complex (Fig. 4.7) fits unambiguously with the cryo-EM density of trunk N sub-
+units. The turns of the N protein helix are not closely associated with one another, a property that accounts for the unwinding of the nucleoprotein
+in the absence of M (see text), which forms an outer, left-handed helix. At the tip, N molecules interact in the absence of RNA. In the trunk, the N
+helix contains 37.5 subunits per turn. Comparison of N-N interactions in such a turn and in rings of 10 N molecules (Fig 4.7), as well as the results
+of mutational analysis, are consistent with formation of rings containing increasing numbers of N molecules from the tip via different modes of N-N
+interaction induced by association with long genomic RNA. Once a second turn of the N-RNA is stacked on the first, the M protein can bind to add
+rigidity. Reprinted from Ge P et al. 2010. Science 327:689-693, with permission. Courtesy of Z.H. Zhou, University of California, Los Angeles.
+

@@ -1,0 +1,60 @@
+EXPERIMENTS
+A high-resolution view of an encapsidated viral genome
+
+The small icosahedral capsid (T = 3) of the
+Escherichia coli bacteriophage MS2 is built
+from dimers of a single coat protein and one
+copy of a maturation protein, which is respon-
+sible for delivery of the genome to host cells.
+‘The capsid contains a single-stranded (+) RNA.
+genome of 3,569 bases, the first genome to be
+sequenced completely. Cryo-EM of MS2 parti-
+cles and averaging of more than 300,000 im-
+ages without imposing any symmetry allowed
+visualization of >80% of the viral RNA genome
+at 6-A resolution. As shown in panel A of the
+figure, most of the RNA showed prominent
+major and minor grooves; ie., it is double-
+stranded, and is organized as stem-loops. Some
+of these structures could be examined at higher
+resolution (3.6 A), indicating that they are more
+ordered, and their sequences determined from.
+features of purines and pyrimidines seen in the groove
+EM density (panel B in the figure). This study
+illustrates the power of asymmetric reconstruc- _ Structure of a small viral RNA genome. (A) Cut-open view of the asymmetric reconstruction of MS2
+tion of images collected by cryo-EM, and the _ (6 A) with the capsid shell colored yellow to red (by radial distance), the maturation protein in magenta,
+high degree of viral genome folding that can be and the RNA in blue with major and minor grooves indicated. (B) A segment of an RNA stem-loop ob-
+served at 3.6-A resolution, with RNA backbone and bases imposed on the EM density (mesh). Adapted
+from Dai X et al. 2017. Nature 541:112-116, with permission. Courtesy of H. Zhou, University of Cali-
+fornia, Los Angeles. See also https://media.nature.com/original/nature-assets/nature/journal/v541/
+17635/extref/nature20589-svl.mp4.
+
+Major
+groove
+
+  
+
+imposed by interactions with capsid proteins.
+
+Dai X, LiZ, Lai M, Shu , Du Y, Zhou ZH, Sun R. 2017.
+In situ structures of the genome and genome-delivery
+apparatus in a single-stranded RNA virus. Nature
+541:112-116.
+
+A DNA layers
+
+    
+
+Connector
+
+Figure 4.20 Packing of double-stranded DNA genome. (A) Dense packing in the head of bacteriophage T4 DNA. The central section of a 22-A
+cryo-EM reconstruction of the head of bacteriophage T4 viewed perpendicular to the fivefold axis is shown. The concentric layers seen underneath the
+capsid shell have been attributed to the viral DNA genome. The connector, which is derived from the portal structure by which the DNA genome enters
+the head during assembly, connects the head to the tail. Adapted from Fokine A et al. 2004. Proc Natl Acad Sci U $ A 101:6003-6008, with permission.
+Courtesy of M. Rossmann, Purdue University. (B) (Left) Cryo-EM reconstruction of the polyomavirus BK virus shown as a 40-A-thick slab, with fitted
+VPI density in gray, density assigned to the minor structural proteins VP2 and VP3 in blue/green, and to packaged double-stranded DNA in yellow to
+pink. These colored densities were not observed in virus-like particles assembled from only VP1. (Right) An enlarged view of the density below a single
+VPI penton, indicating the thickness of the radial layers of DNA and the spacing between them. A model of double-stranded DNA as it appears when
+wrapped on a human histone (blue) is superimposed. Adapted from Hurdiss DL et al. 2016. Structure 24:528-536, licensed under CC BY 4.0. Courtesy of
+N.A. Ranson, University of Leeds, United Kingdom.
+

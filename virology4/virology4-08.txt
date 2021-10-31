@@ -1,0 +1,132 @@
+are typically performed under extreme conditions, for ex-
+ample, very low temperature, and the structures described
+are based on the averaging of very large numbers of parti-
+cles. Consequently, these approaches provide no informa-
+tion about the dynamic or mechanical properties that
+underlie the functions of virus particles. Such information
+can be collected by various biophysical methods, including
+small-angle X-ray scattering and calorimetry. Atomic force
+microscopy, which permits both imaging of virus particles
+
+    
+ 
+  
+
+Cantilever
+
+ 
+   
+
+   
+
+ 
+
+ey
+
+Approach g
+
+and contact °
+Sample <>
+z-displacement
+
+x
+
+g
+
+Indentation W 8
+<>
+z-displacement
+
+x
+
+g
+
+Ba Q Mechanical 8
+
+failure
+
+ 
+
+<>
+z-displacement
+
+Structure 127
+
+and measurement of mechanical properties, has been espe-
+cially useful.
+
+In this method, a very sharp tip attached to a cantilever
+scans the surface of a sample immobilized on a solid support
+(Fig. 4.30A). Deflections of the cantilever to or from the sur-
+face during scanning are detected by a laser beam via a posi-
+tion-sensitive detector. In this way, the topography of the
+surface of a sample such as a virus particle can be imaged, al-
+beit at relatively low resolution (Fig. 4.30B). To assess mechan-
+
+Figure 4.30 Atomic force microscopy and its application to
+human adenovirus particles. (A) A schematic illustration of na-
+noindentation of virus particles. Virus particles are attached to a solid
+surface, such as a glass coverslip or mica, and the tip of an atomic force
+microscope (chosen to be smaller than the radius of the particles of in-
+terest) brought into contact. The tip is attached to a cantilever that
+moves to or from the surface of the particle as it is scanned. Deflections
+of a laser beam focused on the tip during scanning are recorded via a
+photodiode, allowing construction of an image of the particle surface.
+When the force applied via the tip is increased, the degree of deforma-
+tion of the particle is measured as a function of force, as illustrated in
+the center. As the force increases, the virus particle eventually breaks,
+leading to a sudden drop in resistance (bottom). This force is often
+called the breaking force. Courtesy of G. Nemerow, The Scripps Re-
+search Institute. (B) Shown in the right two panels are atomic force mi-
+croscopy images of a particle of human adenovirus type 5 with short
+fibers derived from type 35 before and after application of sufficient
+force to induce mechanical failure. The degree of resolution is low, but
+sufficient to determine the orientation of these icosahedral particles on
+the surface. To characterize mechanical failure in more detail, the re-
+sponses of individual particles were scored on the basis of whether an
+edge, a facet, or a vertex was probed, revealing three distinct patterns
+(left three panels). This approach established that the vertices are the
+weakest points, exhibiting the lowest spring constant and breaking
+force. Adapted from Snijder J et al. 2013. J Virol 87:2756-2766.
+
+After
+
+Before
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+B 2-4fold 3-fold S-fold
+6 J
+2
+El 4
+g
+224 S |
+0 Ae —_—_, ——— ae ———
+0 10 20 30 40 0 10 20 30 40 0 10 20 30 40
+
+Virus indentation (nm) Virus indentation (nm)
+
+   
+
+ 
+
+ 
+
+Virus indentation (nm)
+

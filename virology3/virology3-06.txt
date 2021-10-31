@@ -1,0 +1,96 @@
+ 
+
+Vesicular stomatitis virus
+Rhabdovirus
+
+Respiratory syncytial virus
+Paramyxovirus
+
+Figure 4.21 Conserved organization of the RNA-packaging
+proteins of nonsegmented (-) strand RNA viruses. Ribbon dia-
+grams of the N proteins indicated are shown at the top, colored from
+purple at the N terminus to red at the C terminus. Their electrostatic
+surfaces from negative (red) to positive (blue) are shown in the space-
+filling models below, with the molecules rotated as indicated to show
+the RNA-binding cleft (blue) most clearly. Although differing in struc-
+tural details, these N proteins share a two-lobed structure (top) and an
+RNA-binding cleft between the two lobes. Adapted from Ruigrok RW
+etal. 2011. Curr Opin Microbiol 14:504-510, with permission. Courtesy
+of D. Kolakofsky, University of Geneva.
+
+are associated with polyomaviral genomes condense the DNA
+by a factor of ~7. This packaging mechanism is elegant, with
+two major advantages: none of the limited viral genetic infor-
+mation needs to be devoted to DNA-binding proteins, and the
+viral genome, which is transcribed by cellular RNA polymer-
+ase Il, enters the infected cell nucleus as a nucleoprotein
+closely resembling the cellular templates for this enzyme.
+
+Viruses with Envelopes
+
+In addition to the capsids described previously, many virus
+particles possess an envelope formed by a viral protein-
+containing membrane that is derived from the host cell.
+However, viral envelopes vary considerably in size, morphol-
+ogy, and complexity, and they differ in lipid composition, the
+number of proteins they contain, and their location. The
+
+Structure 115
+
+membranes form the outermost layer of enveloped animal vi-
+ruses, but in some bacteriophages and archaeal viruses the
+membrane lies beneath an icosahedral capsid (Box 4.8). Typ-
+ical features of viral envelopes and their proteins are de-
+scribed in the next section, to set the stage for consideration
+of the structures of envelope proteins and the various ways in
+which they interact with internal components of the virion.
+
+Viral Envelope Components
+
+‘The foundation of the envelopes of all animal viruses is a lipid
+membrane acquired from the host cell during assembly. The
+lipid composition is variable, because viral envelopes can be
+derived from different kinds of cellular membranes. Embed-
+ded in the membrane are viral proteins, the great majority of
+which are glycoproteins that carry covalently linked sugar
+chains, or oligosaccharides. Sugars are almost always added
+to the proteins posttranslationally, during transport to the
+cellular membrane at which progeny virus particles assemble.
+Intra- or interchain disulfide bonds, another common chemi-
+cal feature of these proteins, are also acquired during trans-
+port to assembly sites. These covalent bonds stabilize the
+tertiary or quaternary structures of viral glycoproteins.
+
+Envelope Glycoproteins
+
+Viral glycoproteins are integral membrane proteins firmly
+embedded in the lipid bilayer by a short membrane-spanning
+domain (Fig. 4.22). The membrane-spanning domains of vi-
+ral proteins are hydrophobic a-helices of sufficient length to
+span the lipid bilayer. They generally separate large external
+domains that are decorated with oligosaccharides from smaller
+internal segments. The former contain binding sites for cell sur-
+face virus receptors, major antigenic determinants, and se-
+quences that mediate fusion of viral with cellular membranes
+during entry. Internal domains, which make contact with other
+components of the virus particle, are often essential for virus
+assembly.
+
+With few if any exceptions, viral membrane glycoproteins
+form oligomers, which can comprise multiple copies of a sin-
+gle protein or may contain two or more protein chains. The
+subunits are held together by noncovalent interactions and
+disulfide bonds. On the exterior of particles, these oligomers
+can form surface projections, often called spikes. Because of
+their critical roles in initiating infection, the structures of
+many viral glycoproteins have been determined.
+
+The hemagglutinin (HA) protein of human influenza A
+virus is a trimer that contains a globular head with a top sur-
+face that is projected ~135 A from the viral membrane by a
+long stem (Fig. 4.23A). The latter is formed and stabilized by
+the coiling of a-helices present in each monomer. The mem-
+brane-distal globular domain contains the binding site for the
+host cell receptor. This important functional region is located
+>100 A away from the lipid membranes of influenza virus
+

@@ -1,0 +1,147 @@
+106 Chapter 4
+
+DISCUSSION
+
+Remarkable architectural relationships among viruses with
+
+double-stranded DNA genomes
+
+Viruses with double-stranded DNA genomes
+are currently classified by the International
+Committee on the Taxonomy of Viruses into
+31 families on the basis of the criteria de-
+scribed in Chapter 1. As might be expected,
+these viruses exhibit different morphologies
+and infect diverse organisms representing all
+three domains of life. They span a large size
+range, with genomes from a few kilobase
+pairs (members of the Polyomaviridae) to
+>2,500 kbp (Pandoravirus). Nevertheless, con-
+sideration of structural properties indicates
+that these very disparate virus families in fact
+represent a limited number of architectural
+types.
+
+Structural information is now available
+for the major capsid proteins of representa-
+tives of some two-thirds of families of known.
+double-stranded DNA viruses. Based on the
+fold of the proteins, most of these families can
+be assigned to one of just five structural classes.
+It is noteworthy that the two most common.
+major capsid protein folds, the double B-barrel
+jelly roll and the HK97-like, are found in vi-
+ruses that infect Bacteria, Archaea, and Eu-
+karya (including mammals), as summarized
+in the figure.
+
+The small number of building blocks seen
+in the major capsid proteins of these viruses
+might indicate convergent evolution, the com-
+patibility of only a tiny fraction of the >1,400
+distinct protein folds described to date with
+assembly of an infectious virus particle. How-
+ever, viruses that infect hosts as divergent as
+
+bacteria and humans share more than the ar-
+chitectural elements of their major capsid
+proteins. This property is exemplified by the
+bacteriophage PRD1 and human adenoviruses,
+in which the major structural unit comprises
+a trimer of monomers each with two jelly roll
+domains and hence exhibiting pseudohexag-
+onal symmetry. These icosahedral capsids also
+share a structural unit built from different
+proteins at the positions of fivefold symmetry,
+from which project proteins that attach to
+the host cell receptors; features of their linear
+double-stranded DNA genomes, such as the
+presence of inverted terminal repetitions; and
+mechanisms of viral DNA synthesis. Extensive
+similarities in morphology and the mecha-
+nisms of particle assembly and active genome
+packaging are also shared by tailed, double-
+stranded DNA viruses that infect bacteria,
+e.g., phage T4, and herpesviruses. It is there-
+fore difficult to escape the conclusion that
+these modern viruses evolved from ancient
+common ancestors (see also Volume II,
+Chapter 10).
+
+Abrescia NG, Bamford DH, Grimes JM, Stuart DI.
+2012. Structure unifies the viral universe. Annu Rev
+Biochem 81:795-822.
+
+Benson SD, Bamford JK, Bamford DH, Burnett RM.
+1999, Viral evolution revealed by bacteriophage
+PRD1 and human adenovirus coat protein struc-
+tures. Cell 98:825-833.
+
+Koonin EV, Krupovic M, Yutin N. 2015. Evolution of
+double-stranded DNA viruses of eukaryotes: from
+bacteriophages to transposons to giant viruses. Ann
+NY Acad Sci 1341:10-24.
+
+   
+ 
+
+BACTERIA
+Corticoviridae
+ARCHAEA Tectiviridae
+Turriviridae (STIV) — Myoviridae
+Myoviridae Podoviridae
+
+Siphoviridae Siphoviridae
+
+EUKARYA
+
+Adenoviridae
+lridoviridae
+Mimiviridae
+Poxviridae
+Herpesviridae
+
+The simplified evolutionary tree shows just
+some of the branches within each domain of
+life, with archaeal, bacterial, and eukaryote
+hosts of viruses described in this chapter in-
+dicated. Viruses with major capsid proteins with
+the double jelly roll and HK97-like folds are listed
+in red and blue, respectively. STIV, sulfolobus
+turreted icosahedral virus.
+
+For example, despite the topological identity and geometric
+similarity of the jelly roll domains of the proteins that form
+the capsid shell, the subunits do not engage in quasiequiva-
+lent bonding: interactions among VP1 molecules around the
+fivefold axes are neither chemically nor structurally equiva-
+lent to those in which VP2 or VP3 engage.
+
+Simian virus 40: an alternative icosahedral design. The
+capsids of the small DNA polyomaviruses simian virus 40
+and mouse polyomavirus, ~50 nm in diameter, are organized
+according to a different design that is not based on quasiequiv-
+alent interactions. The structural unit is a pentamer of the ma-
+jor structural protein, VP1. The capsid is built from 72 such
+pentamers engaged in one of two kinds of interaction. Twelve
+pentamers occupy positions of fivefold rotational symmetry, in
+which each is surrounded by five neighbors. Each of the re-
+
+maining 60 pentamers is surrounded by six neighbors at posi-
+tions of sixfold rotational symmetry in the capsid (Fig. 4.14A).
+Consequently, the 72 pentamers of simian virus 40 occupy a
+number of different local environments in the capsid, because
+of variations in packing around the five- and sixfold axes.
+
+Like the three poliovirus proteins that form the capsid
+shell, simian virus 40 VP1 contains a large central B-barrel
+jelly roll domain, in this case with an N-terminal arm anda
+long C-terminal extension (Fig. 4.14B and C). However, the
+arrangement and packing of VP1 molecules bear little resem-
+blance to the organization of poliovirus capsid proteins. The
+VPI f-barrels in each pentamer project outward from the
+surface of the capsid to a distance of about 50 A, in sharp
+contrast to those of the poliovirus capsid proteins, which tilt
+along the surface of the capsid shell. As a result, the surface of
+simian virus 40 is much more “bristly” than that of poliovirus
+

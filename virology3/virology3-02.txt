@@ -1,0 +1,123 @@
+Structure 111
+
+EXPERIMENTS
+
+A fullerene cone model of the human immunodeficiency
+
+virus type 1 capsid
+
+Diverse lines of evidence support a fullerene
+cone model of this capsid based on principles
+that underlie the formation of icosahedral and
+helical structures.
+
+(A) A purified human immunodeficiency
+virus type 1 protein comprising the capsid
+linked to the nucleocapsid proteins, CA-NC
+self-assembles into cylinders and cones when
+incubated with a segment of the viral RNA ge-
+nome in vitro. The cones assembled in vitro are
+capped at both ends, and many appear very
+similar in dimensions and morphology to
+cores isolated from viral particles (compare the
+two panels, shown at the same scale, as indi-
+cated by the bars). From Ganser BK et al. 1999.
+Science 283:80-83, with permission. Courtesy
+of W. Sundquist, University of Utah. (B) The
+very regular appearance of the synthetic CA-
+NC cones suggested that, despite their asym-
+metry, they are constructed from a regular,
+underlying lattice analogous to the lattices that
+describe structures with icosahedral symme-
+try discussed in Box 4.3. In fact, the human
+immunodeficiency virus type 1 cores can be
+modeled using the geometric principles that
+describe cones formed from carbon. Such ele-
+mental carbon cones comprise helices of
+hexamers closed at each end by caps of buck-
+minsterfullerene, which are structures that
+contain pentamers surrounded by hexamers.
+As in structures with icosahedral symmetry,
+the positions of pentamers determine the ge-
+ometry of cones. However, in cones, pentamers
+are present only in the terminal caps. The hu-
+man immunodeficiency virus type 1 cones
+formed in vitro and isolated from mature viri-
+ons can be modeled as a fullerene cone assem-
+bling on a curved hexagonal lattice with five
+pentamers (red) at the narrow end of the cone,
+as shown in the expanded view. The wide end
+would be closed by an additional 7 pentamers
+(because 12 pentamers are required to form a
+closed structure from a hexagonal lattice).
+(©) The fullerene cone model was subsequently
+confirmed and refined by cryo-EM of helical
+
+and with other proteins in multiple ways can provide an effec-
+
+A B
+
+In vitro-assembled cone
+
+particle
+
+ 
+
+ 
+
+tubes of CA at higher resolution, molecular dy-
+namics simulations, and cryo-EM of cores pu-
+rified from and within virus particles. Shown.
+is an example of computational slices of perfect
+fullerene cones observed within virus parti-
+cles, with cryoelectron tomographic models
+superimposed. The C-terminal domains of CA
+molecules are shown in gray, the N-terminal
+domains of CA pentamers in blue, and those of
+CA hexamers colored according to the quality
+of their alignment, from red (low) to green
+(high). From Mattei S. 2017. Science 354:1434—
+1437, with permission. Courtesy of J. Briggs,
+
+   
+
+;~ HIV-1 core
+
+ 
+
+veoh
+
+@~
+
+European Molecular Biology Laboratory, Hei-
+delberg, Germany.
+
+Li S, Hill CP, Sundquist WI, Finch JT. 2000. Image
+reconstructions of helical assemblies of the HIV-1
+CA protein, Nature 407:409-413.
+
+Zhao G, Perilla JR, Yufenyuy EL, Meng X, Chen B,
+NingJ, Ahn J, Gronenborn AM, Schulten K, Aiken
+C, Zhang P. 2013. Mature HIV-1 capsid structure by
+cryo-electron microscopy and all-atom molecular
+dynamics. Nature 497:643-646.
+
+‘Mattei S, Glass B, Hagen WJH, Kriusslich H-G,
+Briggs JAG. 2016. The structure and flexibility of
+conical HIV-1 capsids determined within intact vi-
+ions. Science 354:1434-1437.
+
+Other Capsid Architectures
+
+tive alternative. The organization of the two protein shells de-
+scribed above appears to be conserved in most viruses with
+double-stranded RNA genomes. However, it is not yet known
+whether symmetry mismatch is also a feature of other large vi-
+ruses that contain multiple protein layers.
+
+As noted previously, capsids with icosahedral or helical
+symmetry are characteristic of the majority of virus parti-
+cles described to date. Nevertheless, these architectures
+are not universal, and the capsids of even some relatively
+small viruses can be constructed according to an alternative
+

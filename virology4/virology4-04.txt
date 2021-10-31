@@ -1,0 +1,86 @@
+ 
+
+Structure 123
+
+Glycoproteins
+Envelope
+Membrane
+
+Tegument cap
+
+Nucleocapsid
+
+ 
+
+      
+
+ 
+
+Outside capsid
+
+i See
+
+Inside capsid
+
+ 
+
+@ vP19C
+© UL17, UL25, UL36C
+© Tegument proteins
+
+ 
+
+ 
+
+ 
+
+Figure 4.27 Structural features of herpesvirus particles. (A) Two slices through a cryo-
+electron tomogram of a single herpes simplex virus type 1 particle, showing the eccentric tegument
+cap (arrowheads). Reprinted from Grunewald K et al. 2003. Science 302:1396-1398, with permis-
+sion. (B) Diagram of the structure of the herpesviral capsid based on high resolution (3.5 A or bet-
+ter) cryo-EM structures of herpes simplex virus 1 and 2 and illustrated within a virus particle.
+Shown below is an enlarged view down a 5-fold axis of icosahedral symmetry. (C) The single portal
+of herpes simplex virus type 1 nucleocapsids visualized by staining with an antibody specific for the
+viral UL6 protein conjugated to gold beads is shown to the left. The gold beads are electron dense
+and appear as dark spots in the electron micrograph. They are present at a single vertex in each nu-
+cleocapsid, which therefore contains one portal. A 16-A reconstruction of the UL6 protein portal based.
+on cryo-EM is shown on the right. Adapted from Trus BL et al. 2004. J Virol 78:12668-12671, with
+permission. (D) Central slice through a cryo-electron tomographic reconstruction based on symmetry-
+free averaging is shown radially colored as indicated. Portal vertex-associated density is shown in
+cyan and purple. Adapted from Schmid MF et al. 2012. PLoS Pathog 8:e1002961, under license CC
+BY 4.0. © Schmid et al. Courtesy of A.C. Steven, National Institutes of Health (A and C), W. Chiu,
+Baylor College of Medicine (B), and FJ. Rixon, MRC-University of Glasgow Center for Virus Research,
+Glasgow, United Kingdom (D).
+
+dense surface fibers (as for a 65-A reconstruction of Acan-
+thamoeba polyphaga mimivirus). Such studies have revealed the
+icosahedral organization of major capsid proteins (Fig. 4.28)
+and in some cases their arrangement into assemblies that in-
+teract around the five- or threefold axes of symmetry. The
+most unique feature, first observed in Acanthamoeba polyph-
+aga mimivirus, is the presence of a star-shaped structure at
+one vertex (Fig 4.28B). This stargate, which allows release of
+internal contents of virus particles into the cytoplasm of in-
+fected cells, is an exceptionally large vertex structure, with
+arms extending almost to neighboring vertices. As yet, little
+is known about how such large capsids (up to ~5,000 A in di-
+ameter) are stabilized, or the organization of their internal
+components.
+
+Alternative Architectures
+
+‘The particles of other large viruses exhibit regular and some-
+times remarkable morphologies that are not obviously based
+on helical or icosahedral symmetry. One example, Acidianus
+bottle-shaped virus, is portrayed in Fig. 4.1. We briefly de-
+scribe two others here to illustrate the structural diversity of
+such viruses.
+
+Poxviruses
+
+Particles of poxviruses such as vaccinia virus also com-
+prise multiple, distinct structural elements, but none of these
+exhibit obvious icosahedral or helical symmetry. A second
+distinctive feature is that two forms of infectious particles are
+produced in vaccinia virus-infected cells (see Chapter 13),
+

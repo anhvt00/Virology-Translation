@@ -1,0 +1,74 @@
+104 — Chapter 4
+
+ 
+
+Figure 4.11 Structure of the parvovirus adeno-associated virus 2. (A) Ribbon diagram of the single coat subunit of the T'= 1 particle. The
+regions of the subunit that interact around the five-, three-, and twofold axes indicated by the lines labeled 5, 3, and 2, respectively, of icosahedral
+symmetry are shown in blue, green, and yellow, respectively. The red segments form peaks that cluster around the threefold axes. (B) Surface view of
+the 3-A-resolution structure determined by X-ray crystallography of purified virus particles. The regions of the single subunits from which the cap-
+sid is built are colored as in panel A, and one of the faces formed by three subunits is outlined in white. Adapted from Xie Q et al. 2002. Proc Natl Acad
+Sci US A 99:10405-10410. Courtesy of Michael Chapman, Florida State University.
+
+Adeno-associated virus 2: classic T = 1 icosahedral de-
+sign. The parvoviruses are very small animal viruses, with
+particles of ~25 nm in diameter that encase single-stranded
+DNA genomes of <5 kb. These small, naked capsids are built
+from 60 copies of a single subunit organized according to T=
+1 icosahedral symmetry. The protein that forms the subunits
+of adenovirus-associated virus type 2, a member of the de-
+pendovirus subgroup of parvoviruses (Appendix, Fig. 19),
+contains a core domain commonly found in viral capsid pro-
+teins (the B-barrel jelly roll; see next section), in which B-
+strands are connected by loops (Fig. 4.11A). Interactions
+among neighboring subunits are mediated by these loops.
+‘The prominent projections near the threefold axes of rota-
+tional symmetry (Fig. 4.11B), which have been implicated in
+receptor binding, are formed by extensive interdigitation
+among the loops from adjacent subunits. Adenovirus-associ-
+ated virus vectors have proved valuable in human gene ther-
+apy (Volume II, Chapter 9), in part because variations in the
+sequences of these loops confer differences in tissue tropism.
+
+Poliovirus: a T = 3 structure. As their name implies, the
+picornaviruses are among the smallest of animal viruses. In
+contrast to the T = 1 parvoviruses, the ~30-nm-diameter po-
+liovirus particle is composed of 60 copies of a multimeric
+structural unit. It contains a (+) strand RNA genome of ~7.5 kb
+and its covalently attached 5’-terminal protein, VPg (Appen-
+dix, Fig. 21). Our understanding of the architecture of the
+Picornaviridae took a quantum leap in 1985 with the deter-
+mination of high-resolution structures of human rhinovirus
+14 and poliovirus.
+
+The heteromeric structural unit of the poliovirus capsid
+contains one copy each of VPI, VP2, VP3, and VP4. The VP4
+protein is synthesized as an N-terminal extension of VP2 and
+restricted to the inner surface of the particle. The poliovirus
+capsid is built from asymmetric units that contain one copy
+of each of three different proteins (VP1, VP2, and VP3), and
+is therefore described as a pseudo T'= 3 structure (Fig. 4.12A).
+Although these three proteins are not related in amino acid
+sequence, all contain a central B-sheet structure termed a B-
+barrel jelly roll. The arrangement of B-strands in these B-
+barrel proteins is illustrated schematically in Fig. 4.12B, for
+comparison with the actual structures of VPI, VP2, and VP3.
+As can be seen in the schematic, two antiparallel B-sheets
+form a wedge-shaped structure. The protein backbones in B-
+barrel domains of VP1, VP2, and VP3 are folded in the same
+way; that is, they possess the same topology, and the differ-
+ences among these proteins are restricted largely to the loops
+that connect B-strands and to the N- and C-terminal seg-
+ments that extend from the central B-barrel domains.
+
+The B-barrel jelly roll conformation of these picornaviral
+proteins is also seen in the core domains of capsid proteins of
+a number of plant, insect, and vertebrate (+) strand RNA vi-
+ruses, such as tomato bushy stunt virus and Nodamura virus.
+This structural conservation was entirely unanticipated. Even
+more remarkably, this relationship is not restricted to small
+RNA viruses: the major capsid proteins of the DNA-containing
+parvoviruses and polyomaviruses also contain a B-barrel do-
+main, and two such domains form the major capsid proteins of
+larger DNA-containing viruses, such as adenoviruses and
+mimiviruses. It is well established that the three-dimensional
+

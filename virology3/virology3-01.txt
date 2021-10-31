@@ -1,0 +1,92 @@
+110 Chapter 4
+
+A Reovirus B Rotavirus
+
+o1+062
+
+  
+
+wie +03
+—s
+
+Core
+particle
+
+  
+
+Inner layer
+
+segments
+
+Virion
+VP2_ enzymes
+
+ 
+
+segments
+
+Figure 4.17 Structures of members of the Reoviridae. ‘The organization of mammalian reovirus (A) and rotavirus (B) particles is shown
+schematically to indicate the locations of proteins, deduced from the protein composition of intact particles and of subviral particles that can be
+readily isolated from them. dsRNA, double-stranded RNA. (C) X-ray crystal structure of the core of bluetongue virus, a member of the Orbivirus
+genus of the Reoviridae, showing the core particle and the inner scaffold. Trimers of VP7 (VP6 in rotaviruses; panel B) project radially from the
+outer layer of the core particle (left). Each icosahedral asymmetric unit, two of which are indicated by the white lines, contains 13 copies of VP7 ar-
+ranged as five trimers colored red, orange, green, yellow, and blue, respectively. This layer is organized with classical T = 13 icosahedral symmetry.
+As shown on the right, the inner layer is built from VP3 dimers that occupy one of two completely different structural environments, colored green
+and red. Green monomers span the icosahedral twofold axes and interact in rings of five around the icosahedral fivefold axes in a T = 2 structure. In
+contrast, red monomers are organized as triangular “plugs” around the threefold axes. Differences in the interactions among monomers at different
+positions allow close packing to form the closed shell. As might be anticipated, VP7 trimers in pentameric or hexameric arrays in the outer layer
+make different contacts with the two classes of VP3 monomer in the inner layer. Nevertheless, each type of interaction is extensive, and in total,
+these contacts compensate for the symmetry mismatch between the two layers of the core. The details of these contacts suggest that the inner shell
+both defines the size of the virus particle and provides a template for assembly of the outer T = 13 structure. From Grimes JM et al. 1998. Nature
+395:470-478, with permission. Courtesy of D.I. Stuart, University of Oxford.
+
+‘These subviral particles also contain the genome and virionen- A B
+zymes and synthesize viral mRNAs in vitro under appropriate
+conditions. High-resolution structures have been obtained for
+bluetongue virus and human reovirus cores, some of the largest
+viral assemblies that have been examined by X-ray crystallogra-
+phy. Their thin inner layer contains 120 copies of a single pro-
+tein (termed VP3 in bluetongue virus). These proteins are not
+related in their primary sequences, but they nevertheless have
+similar topological features and the same plate-like shape.
+Moreover, in both cases, the dimeric proteins occupy one of
+two different environments, and to do so, they adopt one of two
+distinct conformational states, indicated as green and red in
+Fig. 4.17C (right). Because of this arrangement, the green and
+red dimers are not quasiequivalent, and virtually all contacts in
+which the two monomer conformations engage are very differ-
+ent. However, these differences allow the formation of VP3 as-
+
+   
+     
+
+Envelope Core Spike
+
+   
+
+Lentivirus
+
+semblies with either five- or threefold rotational symmetry and
+hence of an icosahedral shell. This VP3 shell of bluetongue vi-
+rus abuts directly on the inner surface of the middle layer,
+which comprises trimers of a single protein organized into a
+classical T = 13 lattice (Fig. 4.17C, left). A large number of differ-
+ent (nonequivalent) contacts between these trimers and VP3
+weld the two layers together and hence stabilize both. These
+properties of reoviruses illustrate that a classic quasiequivalent
+structure is not the only solution to the problem of building
+large viral particles: viral proteins that interact with each other
+
+Figure 4.18 Asymmetric capsids of retroviruses. (A) Variation
+in the morphology of retroviruses shown schematically. Although all
+retrovirus particles are assembled from the same components (see the
+text), the cores are primarily spherical, cylindrical, or conical in the
+case of gammaretroviruses (e.g., Moloney murine leukemia viruses),
+betaretroviruses (e.g., Mason-Pfizer monkey virus), and lentiviruses
+(e.g. human immunodeficiency virus type 1), respectively. (B) Cryo-
+electron tomographic slice of human immunodeficiency virus type 1
+showing the conical core and the glycoprotein spikes projecting
+from the surface of the particle. © Jun Liu, Yale University School of
+Medicine, with permission. Courtesy of H. Winkler, Florida State
+University.
+

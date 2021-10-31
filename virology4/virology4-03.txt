@@ -1,0 +1,95 @@
+122 Chapter 4
+
+A
+
+Head
+
+(4 external
+proteins, DNA,
+2 core proteins,
+and other
+internal proteins)
+
+    
+   
+    
+   
+    
+  
+    
+
+Connector
+
+@ proteins) aug
+
+Contractile tail
+(1 protein in
+outer sheath and
+1 in internal tube)
+
+Whisker (1 protein)
+
+Long tail fiber
+(4 proteins)
+
+(~16 proteins)
+
+ 
+
+Figure 4.26 Morphological complexity of bacteriophage T4. (A) A model of the virus particle. (B)
+Structure of the head (22-A resolution) determined by cryo-EM, with the major capsid proteins shown in blue
+(gp23*) and magenta (gp24*), the protein that protrudes from the capsid surface in yellow, the protein that
+binds between gp23* subunits in white, and the beginning of the tail in green. Reprinted from Fokine A et al.
+2004. Proc Natl Acad Sci U S.A 101:6003-6008, with permission. Courtesy of M. Rossmann, Purdue University.
+
+papillomaviruses) is stabilization of the particle by disulfide
+bonds, which covalently link both subunits of the triplexes
+and triplexes to VP5 subunits of adjacent hexons to impart ri-
+gidity. Such a network of covalent bonds must greatly increase
+the stability of the large nucleocapsid and may also be neces-
+sary to counter the high pressure exerted on this protein shell
+(see “Mechanical Properties of Virus Particles”).
+
+Although apparently a typical and quite simple icosahe-
+dral shell, this viral capsid is in fact an asymmetric struc-
+ture: 1 of the 12 vertices is occupied not by a VP5 penton but
+by a unique structure termed the portal. The portal com-
+prises 12 copies of the UL6 protein and is a squat, hollow
+cylinder that is wider at one end and surrounded by a two-
+tiered ring at the wider end (Fig. 4.27C). The incorporation
+of the portal, which is connected to the viral membrane (Fig.
+4,27D), has important implications for the mechanism of
+assembly and delivery of viral genomes during entry (see
+Chapters 13 and 5).
+
+The tegument contains >20 viral proteins, viral RNAs,
+and cellular components. A few tegument proteins are ico-
+sahedrally ordered, as a result of direct contacts with the
+structural units of the capsid. For example, three tegument
+proteins form a distinctive structure that caps the pentons
+
+and buttresses their association with neighboring triplexes.
+Tegument proteins are not uniformly distributed around
+the capsid, but are concentrated on one side, where they
+form a well-defined cap-like structure (Fig. 4.27A). The
+connection of the portal vertex of the capsid to the viral
+membrane (Fig. 4.27D) seems likely to account for this
+asymmetry.
+
+Mimiviruses
+
+Characteristic features of members of the Mimiviridae,
+which infect single-cell eukaryotes, are their very large, double-
+stranded DNA genomes and correspondingly huge particles.
+Initial examinations of these viruses by electron microscopy
+established that they comprise multiple layers, include a lipid
+membrane within an external capsid, and in some cases in-
+clude a dense layer of surface fibers (Fig. 4.1). Despite their large
+size, mimivirus particles exhibit some familiar structural fea-
+tures, notably icosahedral symmetry and a capsid built from a
+major capsid protein with the double B-barrel jelly roll topology.
+To date, cryo-EM reconstructions of these viruses have
+achieved only a relatively low resolution, because of the need
+for much computational power (e.g, ~3 x 10° CPU hours for a
+21-A view of Cafeteria roenbergensis virus) and/or removal of
+

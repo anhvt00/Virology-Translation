@@ -1,0 +1,132 @@
+Table 4.2 Nomenclature used in description of virus structure
+
+Term Synonym _ Definition
+
+Subunit (protein Single, folded polypeptide chain
+subunit)
+
+Structural unit Asymmetric_—_Unit from which capsids or
+
+unit nucleocapsids are built; may
+comprise one protein subunit or
+multiple, different protein subunits
+Capsid Coat ‘The protein shell surrounding the
+nucleic acid genome
+‘The nucleic acid-protein assembly
+packaged within the virion; used
+when this assembly is a discrete
+substructure of a particle
+‘The host cell-derived lipid bilayer
+carrying viral glycoproteins
+
+Nucleocapsid Core
+
+Viral
+membrane
+
+Envelope
+
+Virion ‘The infectious virus particle
+
+ 
+
+1940s, traditionally relied on staining of purified virus parti-
+cles (or of sections of infected cells) with an electron-dense
+material. It can yield quite detailed and often beautiful images
+(Fig. 1.9; see the Appendix) and provided the first rational ba-
+sis for classification of viruses.
+
+The greatest contrast between virus particle and stain (neg-
+ative contrast) occurs where portions of the folded protein
+chain protrude from the surface. Consequently, surface knobs
+or projections, termed morphological units, are the main fea-
+tures identified by this method. However, because these sur-
+face features are often formed by multiple proteins, their
+organization does not necessarily correspond to that of the
+individual proteins that make up the capsid shell. Even when
+
+Structure 93
+
+structure is well preserved and a high degree of contrast can
+be achieved, the minimal size of an object that can be distin-
+guished by classical electron microscopy, its resolution, is
+limited to 50 to 75 A. This resolution is far too poor to permit
+molecular interpretation: for example, the diameter of an o-
+helix in a protein is on the order of 10 A. Cryo-electron mi-
+croscopy (cryo-EM), in which samples are rapidly frozen and
+examined at very low temperatures in a hydrated, vitrified
+(noncrystalline, glass-like) state, preserves native structure.
+Because samples are not stained, this technique allows direct
+visualization of the contrast inherent to the virus particle, and
+it also enables higher resolution.
+
+‘The symmetry of most virus particles facilitates analysis
+of individual images obtained by cryo-EM for reconstruc-
+tion of two- or three-dimensional structure (Box 4.1). This
+approach can be complemented by cryo-electron tomogra-
+phy, in which two-dimensional images are recorded as the
+vitrified sample is tilted at different angles to the electron
+beam and subsequently combined into a three-dimensional
+density map (Fig. 4.3). These methods have been greatly
+improved since their introduction, to near atomic-level res-
+olution, and are now standard tools of structural biology.
+‘Their application has provided unprecedented views of vi-
+rus particles not amenable to other methods of structural
+analysis, for example, alphaviruses (Fig. 4.23) and herpes-
+viruses (Fig. 4.27).
+
+‘The first descriptions of the molecular interactions that
+dictate the structure of virus particles were obtained by X-ray
+crystallography (Fig. 4.4) (see the interview with Dr. Michael
+Rossmann: http://bit.ly/Virology_Rossmann). A plant virus
+(tobacco mosaic virus) was the first to be crystallized, and the
+
+BOX 4.1
+METHODS
+
+The development of cryo-electron microscopy, a revolution
+
+in structural biology
+
+Cryo-EM has now revealed near-atomic reso-
+lution of not only symmetric virus particles,
+some very large, but also asymmetric and dy-
+namic cellular machines built from many
+components, such as transcription complexes
+and the spliceosome. The foundations for this
+revolutionary method of structural biology
+were laid in the 1970s and 1980s by Jacques
+Dubochet, Joachim Frank, and Richard Hen-
+derson, whose contributions were recognized
+by the 2017 Nobel Prize in Chemistry.
+Henderson was the first to use electron mi-
+croscopy to investigate the structure of a pro-
+tein (bacteriorhodopsin in a cell membrane),
+and obtained a low-resolution model. The de-
+
+velopment by Frank of algorithms for the sort-
+ing of randomly oriented molecules into related
+groups for averaging improved the resolution
+of two-dimensional images and facilitated their
+transformation into three-dimensional struc-
+tural models (Fig. 4.3). Further increases in
+resolution were achieved when Dubochet per-
+fected methods for vitrification of samples to
+produce much sharper images.
+
+Near-atomic resolution, which is now quite
+routine, was attained with additional refine-
+ments, including the use of direct electron de-
+tectors (rather than film or CCD cameras) to
+capture images and increasingly sophisticated
+data processing software.
+
+ 
+
+The composite image of cryo-EM reconstruc-
+tions of the enzyme f-galactosidase drama-
+tizes the great improvement in resolution,
+from the 10 to 20 A typical a decade ago to, in
+this case, 2.2 A (left to right). Courtesy of
+Sriram Subramanian, National Cancer Institute.
+

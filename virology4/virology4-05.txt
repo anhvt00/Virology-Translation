@@ -1,0 +1,81 @@
+124 Chapter 4
+
+ 
+
+Figure 4.28 Features of mimivirus capsids. (A) Cryo-EM recon-
+struction of Cafeteria roenbergensis mimivirus at 21-A resolution.
+Although not decorated with fibers, the surface of this capsid is charac-
+terized by high protrusions formed by surface loops of the double B-
+barrel jelly roll major capsid protein. These pseudohexagonal structure
+units are organized in discrete arrays, termed pentasymmetrons (pur-
+ple) and trisymmetrons (blue, red, green, cyan, and orange), which
+form the vertices and interact at the threefold axes of symmetry, re-
+spectively. One of the 30 edges of the icosahedral particle is indicated in
+cyan, and the position of five-, three-, and twofold axes of symmetry by
+red symbols. Adapted from Xiao C et al. 2017. Sci Rep 7:5484, under
+license CC BY 4.0. Courtesy of C. Xiao, University of Texas at El Paso.
+(B) Cryo-EM reconstruction of Acanthamoeba polyphaga mimivirus
+following sequential digestion with lysozyme and the protease brome-
+lain. This treatment was applied to remove (or reduce) the dense array
+of surface fibers (Fig. 4.1), which increase ice thickness around the
+particles and hence signal-to-noise because of random scattering of
+electrons. The reconstruction (61 A), which is based on only fivefold av-
+eraging, is viewed down the stargate (blue). ‘The size of this assembly
+with extensions of the arms some 200 A almost to neighboring vertices
+is clearly evident. Adapted from Xiao C et al. 2009. PLoS Biol 7:e92 under
+license CC BY 4.0. © 2009 Xiao et al. Courtesy of M. Rossman, Purdue
+University.
+
+termed mature virions and enveloped extracellular virions,
+which differ in the number and origin of membranes. Mature
+virions are large, enveloped structures (~350 to 370 x 250 x
+270 nm) comprising at least 75 proteins that appear in the
+electron microscope as brick or barrel shaped (depending on
+the orientation) (Fig. 4.29A). A number of internal structures
+have been observed by examination of thin sections through
+purified particles or by cryo-electron tomography (Fig.
+4.298). These features include the core wall, which surrounds
+the central core that contains the ~200-kbp DNA genome,
+and lateral bodies. Remarkably, the core contains some 20
+enzymes with many different activities. Although viral pro-
+teins that contribute to these various structures have been
+identified, our understanding of vaccinia virus architecture
+remains at low resolution.
+
+Pithoviruses
+Pithovirus particles are the largest described to date, in-
+deed are visible in the light microscope. They are ovoid or am-
+
+     
+
+Core wall
+Core
+
+Membrane
+
+Figure 4.29 Virus particles with alternative architectures.
+Structural features of the poxvirus vaccinia virus. (A) Surface render-
+ing of intracellular mature particles of vaccinia virus reconstructed
+from cryo-electron tomograms showing the brick shape and irregular
+protrusions from the surface. (B) Translucent visualization of the re-
+constructed particle volume showing the dumbbell-shaped core and
+external membrane. A and B reprinted from Cyrklaff M et al. 2005.
+Proc Natl Acad Sci U $ A 102:2772-2777, with permission. Courtesy of
+J.L. Carrascosa, Universida Autonoma de Madrid. The virus Pithovirus
+sibericum was isolated following culture of a suspension of soil from a
+sample of permafrost collected in 2000 in Siberia. (C) Morphology of
+this virus particle, viewed by energy-filtered cryo-EM to facilitate visu-
+alization of thick, ice-embedded particles. The internal nucleoid, which
+appears rather featureless, is likely covered by a membrane, a thick pro-
+tein layer termed the tegument, and a low-density outer layer. (D) The
+apical cork, which is made up of vertical fibers and hence appears stri-
+ated, resides at one end of the particle. C and D reprinted from Okamoto K
+etal. 2017. Sci Rep 7:13291, under license CC BY 4.0. Courtesy of K. Okamoto,
+Uppsala University, Sweden.
+
+phora-like in shape and variable in length (most commonly
+1.35 to 1.65 nm). The internal nucleoid, which contains the
+double-stranded DNA genome of some 0.6 Mbp, is enclosed
+within what is thought to be a lipid membrane, in turn en-
+cased in a thick protein layer (the tegument). The apex of
+

@@ -1,0 +1,129 @@
+Structure 97
+
+ 
+
+METHODS
+Nanoconstruction with virus particles
+
+Nanochemistry is the synthesis and study of A
+well-defined structures with dimensions of 1
+to 100 nm. Molecular biologists study nano-
+chemistry, nanostructures, and molecular
+machines including the ribosome and mem-
+brane-bound signaling complexes. Icosahedral
+viruses are proving to be precision building
+blocks for nanochemistry. The icosahedral
+cowpea mosaic virus particle is 30 nm in di-
+ameter, and its atomic structure is known.
+Grams of particles can be prepared easily from
+kilograms of infected leaves, insertional muta-
+genesis is straightforward, and precise amino
+acid changes can be introduced. As illustrated
+in panel A of the figure, cysteine residues in-
+serted in the capsid protein provide functional
+groups for chemical attachment of 60 precisely
+placed molecules, in this case, gold particles.
+High local concentrations of attached
+chemical agents, coupled with precise place-
+ment, and the propensity of virus-like particles
+for self-organization into two- and three-di-
+
+ 
+
+ 
+
+Gold particles attached to cowpea mosaic virus. (A) Cryo-EM was performed on derivatized cow-
+pea mosaic virus with a cysteine residue inserted on the surface of each of the 60 subunits and to which
+nanogold particles with a diameter of 1.4 nm were chemically linked. (Left) Difference electron density
+map obtained by subtracting the density of unaltered cowpea mosaic virus at 29 A from the density map
+of the derivatized virus. This procedure reveals both the genome (green) and the gold nanoparticles.
+(Right) A section of the difference map imposed on the atomic model of cowpea mosaic virus. The posi-
+tions of the gold indicate that it is attached at the sites of the introduced cysteine residues. Courtesy of
+M.. Finn and J. Johnson, The Scripps Research Institute. (B) Increasing the piezoelectric strength of
+phage M13. Schematic side view of a segment of M13 containing 10 copies (3 of which are shown) of the
+helical major coat protein modified to contain four glutamine residues at its N terminus. The dipole mo-
+ments (yellow arrows) are directed from the N terminus (blue, positive) to the C terminus (red, negative).
+
+mensional lattices of well-ordered arrays of
+particles enable rather remarkable nanocon-
+struction. For example, the surface of the fila-
+mentous bacteriophage M13 can be patterned
+to carry separate binding sites for gold and
+cobalt oxide and assembled into nanowires to
+form the anodes of small lithium ion batter-
+ies. Remarkably, this bacteriophage also dis-
+plays intrinsic piezoelectric properties, that
+is, the ability to generate an electric charge in
+response to mechanical deformation, and vice
+versa. The basis of this property is not fully
+understood, but modification of the sequence
+of the major protein to increase its dipole
+
+moment (figure, panel B) augmented the
+piezoelectric strength of the bacteriophage.
+Assembly of the modified M13 into thin films
+was exploited to build a piezoelectric genera-
+tor that produced up to 6 mA of current and
+400 mV of potential, sufficient to operate a
+liquid crystal display (see Movie 4.1: http://
+bity/Virology_piezo). Virus particles also
+have considerable potential for the delivery of
+drugs and other medically relevant molecules
+(Volume IT, Chapter 9).
+
+Viruses are not just for infections anymore!
+They will provide a rich source of building
+blocks for applications spanning the worlds
+
+of molecular biology, materials science, and
+medicine.
+
+Lee BY, Zhang J, Zueger C, Chung WJ, Yoo SY,
+Wang E, Meyer J, Ramesh R, Lee SW. 2012. Virus-
+based piezoelectric energy generation. Nat Nano-
+technol 7:351-356.
+
+Nam KT, Kim DW, Yoo PJ, Chiang CY, Meethong N,
+Hammond PT, Chiang YM, Belcher AM. 2006. Vi-
+rus-enabled synthesis and assembly of nanowires for
+lithium ion battery electrodes. Science 312:885-888.
+
+Tarascon JM. 2009. Nanomaterials: viruses electrify
+battery research. Nat Nanotechnol 4:341-342,
+
+Wang Q, Lin T, Tang L, Johnson JE, Finn MG. 2002.
+Icosahedral virus particles as addressable nanoscale
+building blocks. Angew Chem Int Ed Engl 41:459-462.
+
+become highly extended and filamentous once the matrix (M)
+protein is also removed (Fig. 12.21). X-ray crystallography of a
+ring-like N protein-RNA complex containing 10 molecules of
+the protein bound to RNA has revealed that each N protein
+molecule binds to 9 nucleotides of the RNA that is largely se-
+questered within cavities formed by the protein (Fig. 4.7).
+Furthermore, each N subunit makes extensive and regular
+contacts with neighboring N molecules, as predicted from
+first principles by Crick and Watson.
+
+‘The internal components of influenza A virus particles
+differ radically: they comprise not a single nucleocapsid but
+multiple ribonucleoproteins, one for each of the 8 molecules
+of the segmented RNA genome present in an infectious virus
+particle (Appendix, Fig. 15). Furthermore, with the exception
+
+of terminal sequences, the RNA in these ribonucleoproteins
+is fully accessible to solvent, suggesting that the RNA is not
+sequestered in the interior of the ribonucleoprotein. The ar-
+chitectures of ribonucleoproteins released from influenza A
+virus particles determined by cryo-EM or scanning trans-
+mission EM tomography are consistent with such a model:
+the ribonucleoprotein comprises a double helix of NP mole-
+cules connected at one end by an NP loop, often with a mole-
+cule of the viral RNA polymerase bound at the other end
+(Fig. 4.8A). The RNA is bound along the exposed surfaces of
+the NP strands with some sequences in each RNA segment
+more tightly associated than others (Fig. 4.8B).
+
+‘The examples presented above illustrate the diversity possible
+when viruses with simple helical symmetry possess an envelope.
+

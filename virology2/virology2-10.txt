@@ -1,0 +1,95 @@
+ularly in the towers that rise above the hexon base and are
+formed by intertwining loops from each monomer. Conse-
+quently, the trimeric hexon is extremely stable.
+
+‘The adenovirus particle contains seven additional struc-
+tural proteins (Fig. 4.15A). The presence of so many proteins
+and the large size of the particle made elucidation of adenovi-
+rus architecture a challenging problem. One approach that
+has proved generally useful in the study of larger viruses is
+the isolation and characterization of discrete subviral parti-
+cles. For example, adenovirus particles can be dissociated
+into a core structure that contains the DNA genome, groups
+of nine hexons, and pentons. Analysis of the composition of
+such subassemblies identified two classes of proteins in addi-
+tion to the major capsid proteins described above. One com-
+prises the proteins present in the core, such as protein VII,
+the major DNA-binding protein. The remaining proteins are
+associated with either individual hexons or the groups of
+hexons that form an icosahedral face of the capsid, suggest-
+ing that they stabilize the structure.
+
+‘The interactions of protein IX and other minor proteins with
+hexons and/or pentons were deduced initially by difference im-
+aging (Fig. 4.5) and refined subsequently by X-ray crystallogra-
+phy and cryo-EM (Fig. 4.16A). The minor capsid proteins make
+numerous contacts with the major structural units. For exam-
+ple, on the outer surface of the capsid, a network formed by ex-
+tensive interactions among the extended molecules of protein
+IX knit together the hexons that form the groups of nine (Fig.
+4,16B). The function of protein IX as capsid “cement” has been
+confirmed by the much-reduced heat stability of altered parti-
+cles that lack this protein. Other minor capsid proteins are re-
+stricted to the inner surface, where they reinforce the groups of
+nine hexons and their associations, or weld the penton base to
+its surrounding hexons. Not surprisingly, such protein “glues”
+also buttress other larger icosahedral structures, such as the
+herpes simplex virus nucleocapsid and the capsids of much
+larger viruses, such as Paramecium bursaria chlorella virus 1
+(some 190 nm in diameter). During adenovirus assembly, inter-
+actions among hexons and other major structural proteins must
+be relatively weak, so that incorrect associations can be reversed
+and corrected. However, the assembled particle must be stable
+enough to survive passage from one host to another. It has been
+proposed that the incorporation of stabilizing proteins like pro-
+tein IX allows these paradoxical requirements to be met.
+
+Reoviruses. Reovirus particles exhibit an unusual archi-
+tecture: they contain multiple protein shells. They are naked
+particles, 70 to 90 nm in diameter with an outer T = 13 icosa-
+hedral protein coat that contains the 10 to 12 segments of the
+double-stranded genome and the enzymatic machinery to
+synthesize viral mRNA. The particles of human reovirus (ge-
+nus Orthoreovirinae contain eight proteins organized in two
+concentric shells, with spikes projecting from the inner layer
+
+ 
+
+Structure 109
+
+HM 440A
+yy 410A
+[i 380A
+HN 350A
+HE 320A
+
+ 
+
+Interior view
+
+Exterior view
+
+Figure 4.16 Interactions among major and minor proteins of
+the adenoviral capsid. (A) Cryo-EM reconstruction of the adenovi-
+rus type 5 capsid at 3.6-A resolution radially colored by distance from
+the center, as indicated. This view is centered on a threefold axis of ico-
+sahedral symmetry. Only short stubs of the fibers are evident, as these
+structures are bent. For other views, see Movie 4.2 (http://bit.ly/Virology__
+ADS5Cap). Courtesy of V. Reddy, The Scripps Research Institute. (B)
+Views of the outer (left) and inner (right) surfaces indicating the loca-
+tions of the minor capsid proteins IX, Illa, V, VI, and VIII (colored as
+in Fig. 4.15A) with respect to hexons (gray) and penton base (magenta).
+Data from Yu Y et al. 2017. Sci Adv 3:e1602670.
+
+through and beyond the outer layer at each of the 12 vertices
+(Fig. 4.17A). Members of the genus Rotavirus, which includes
+the leading causes of severe infantile gastroenteritis in hu-
+mans, contain three nested protein layers, with 60 projecting
+spikes (Fig. 4.17B). Although differing in architectural detail,
+reovirus particles have common structural features, includ-
+ing an unusual design of the innermost protein shell.
+Removal of the outermost protein layer, a process thought to
+occur during entry into a host cell, yields an inner core struc-
+ture, comprising one shell (orthoreoviruses) or two (rotaviruses
+and members of the genus Orbivirus, such as bluetongue virus).
+

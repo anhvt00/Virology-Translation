@@ -1,0 +1,105 @@
+Exterior
+
+   
+
+Membrane-
+spanning
+o-helix
+
+Interior
+
+Figure 4.22 Structural and chemical features of a typical viral
+envelope glycoprotein shown schematically. The protein is in-
+serted into the lipid bilayer via a single membrane-spanning domain.
+This segment separates a larger external domain, which is decorated
+with N-linked oligosaccharides (purple) and contains disulfide bonds
+(green), from a smaller internal domain.
+
+A Influenza virus HA trimer
+
+  
+         
+
+Stem
+
+ 
+  
+
+      
+  
+
+(ay
+
+ 
+
+ON
+OS
+CIOS
+
+ANY
+
+       
+
+   
+
+Lipid membrane
+
+ 
+
+NT ACOUSUCECONS CTO ASUTRONS ELLOS RRC CIS aG
+
+x,
+Re ET MLN LANA ISM
+
+Structure 117
+
+multiple membrane-spanning segments. Among the best char-
+acterized is the influenza A virus M2 protein. This small
+(97-amino-acid) protein is a minor component of virus parti-
+cles. In the viral membrane, two disulfide-linked M2 dimers
+associate to form a noncovalent tetramer that functions as an
+ion channel. This viral ion channel is the target of the influenza
+virus inhibitor drug amantadine (Volume II, Fig. 9.13). The
+effects of this drug, as well as of mutations in the M2 coding
+sequence, indicate that M2 plays important roles during both
+entry, by controlling the pH of the virus particle interior
+(Chapter 5), and release of newly assembled virus particles
+(Chapter 13). M2 belongs to a class of channel-creating viral
+proteins called viroporins, which are present in a number of
+other enveloped viruses, such as hepatitis C virus and Sindbis
+virus, but also in nonenveloped viruses like simian virus 40
+and papillomaviruses.
+
+Simple Enveloped Viruses: Direct Contact
+
+of External Proteins with the Capsid or
+Nucleocapsid
+
+In the simplest enveloped viruses, exemplified by (+) strand
+RNA alphaviruses such as Semliki Forest, Sindbis, and Ross
+River viruses, the envelope directly abuts an inner nucleocapsid
+
+B Flavivirus E dimer
+
+ 
+
+ 
+
+         
+      
+
+HMOs
+Mani
+
+         
+
+ 
+
+ 
+
+Figure 4.23 Structures of extracellular domains of viral glycoproteins. ‘These extracellular domains, which were cleaved from transmem-
+brane and internal domain for crystallization, are depicted as they are oriented with respect to the membrane of the viral envelope. (A) X-ray crystal
+structure of the influenza virus HA glycoprotein trimer. Each monomer comprises HAI (blue) and HA2 (red) subunits covalently linked by a disul-
+fide bond. Data from Chen J et al. 1998. Cell 95:409-417, with permission. (B) X-ray structure of the tick-borne encephalitis virus (a flavivirus) E
+protein dimer, with the subunits shown in orange and yellow. PDB ID: 1SVB. Data from Rey FA, Harrison SC. 1995. Nature 375:291-298.
+

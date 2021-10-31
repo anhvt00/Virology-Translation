@@ -1,0 +1,99 @@
+96 Chapter 4
+
+  
+
+Cryo-EM density
+
+Trimeric
+density
+
+a-helical
+bundle
+
+ 
+
+Figure 4.5 Difference mapping illustrated by a 6-A-resolution
+reconstruction of adenovirus. (A) Comparison of a-helices of the
+penton base in the cryo-electron microscopic (cryo-EM) density (gray
+mesh) and the crystal structure of this protein bound to a fiber peptide
+(ribbon). The excellent agreement established that o.-helices could be
+reliably discerned in the 6-A cryo-EM reconstruction. (B) Portion of
+the cryo-EM difference map corresponding to the surface of one icosa-
+hedral face of the capsid. The crystal structures of the penton base
+(yellow) and the hexons (green, cyan, blue, and magenta at different
+positions) at appropriate resolution were docked within the cryo-EM.
+density at 6-A resolution. The cryo-EM density that does not corre-
+spond to these structural units (the difference map) is shown in red. At
+this resolution, the difference map revealed four trimeric structures lo-
+cated between neighboring hexons and three bundles of coiled-coiled
+a-helices. Both assemblies are now known to be formed by cement pro-
+tein IX. Adapted from Saban SD et al. 2006. J Virol 80:12049-12059,
+with permission. Courtesy of Phoebe Stewart, Vanderbilt University
+Medical Center.
+
+number of viral proteins with properties that permit regular
+and repetitive interactions among them. These protein mole-
+cules are arranged to provide maximal contact and noncova-
+lent bonding among subunits and structural units. We now
+know that the capsids of even the largest viruses, with ge-
+nomes of >1 Mbp, are also built from a small number of pro-
+teins. This property indicates that optimization of regular
+protein-protein interactions is the primary determinant of
+virus architecture. The repetition of such interactions among
+
+a limited number of proteins results in a regular structure,
+with symmetry that is determined by the spatial patterns of
+the interactions. The helical or icosahedral symmetry com-
+mon to many viruses not only satisfies such protein limita-
+tions but also has considerable practical value (Box 4.2).
+
+Helical Structures
+
+‘The nucleocapsids of some enveloped animal viruses, as well
+as certain plant viruses and bacteriophages, are rod-like or
+filamentous structures with helical symmetry. Helical sym-
+metry is described by the number of structural units per turn
+of the helix, the axial rise per unit, and the pitch of the helix
+(Fig. 4.6A). A characteristic feature of a helical structure is
+that any volume can be enclosed simply by varying the length
+of the helix. Such a structure is said to be open. In contrast,
+capsids with icosahedral symmetry (described below) are
+closed structures with fixed internal volume.
+
+From a structural point of view, the best-understood heli-
+cal nucleocapsid is that of tobacco mosaic virus, the very first
+virus to be identified. The virus particle comprises a single
+molecule of (+) strand RNA, about 6.4 kb in length, enclosed
+within a helical protein coat (Fig. 4.6B; see also Fig. 1.9). The
+coat is built from a single protein with an extended shape.
+Repetitive interactions among coat protein subunits form
+disks, which in turn assemble as a long, rod-like, right-handed
+helix. In the interior of the helix, each coat protein mole-
+cule binds three nucleotides of the RNA genome. The coat pro-
+tein subunits therefore engage in identical interactions with
+one another and with the genome, allowing the construction
+of a large, stable structure from multiple copies of a single
+protein.
+
+The particles of several families of animal viruses with (-)
+strand RNA genomes, including filoviruses, paramyxoviruses,
+rhabdoviruses, and orthomyxoviruses, contain internal struc-
+tures with helical symmetry that are encased within an
+envelope. In all cases, these structures contain an RNA mol-
+ecule, many copies of an RNA-packaging protein (designated
+NP or N), and the viral RNA polymerase and associated en-
+zymes responsible for synthesis of mRNA and viral genomes.
+Despite common helical symmetry and similar composition,
+the internal components of these (-) strand RNA viruses ex-
+hibit considerable diversity in morphology and organization.
+For example, the nucleocapsids of the filovirus Zaire ebolavi-
+rus and the paramyxovirus Sendai virus are long, filamen-
+tous structures in which the NP proteins, like the tobacco
+mosaic virus coat protein, make regular interactions with the
+RNA genome. In contrast, the nucleocapsids of rhabdovi-
+ruses such as vesicular stomatitis virus are bullet shaped (Fig.
+4.6C). Furthermore, an additional viral protein is essential to
+maintain their organization: vesicular stomatitis virus nucle-
+ocapsids released from within the envelope retain the di-
+mensions and morphology observed in intact particles but
+

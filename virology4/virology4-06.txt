@@ -1,0 +1,120 @@
+pithovirus is closed by a protruding “cork” with a hexagonal,
+grid-like appearance (Fig. 4.29C and D). Following uptake of
+virus particles into host cells by phagocytosis, this unusual
+cork structure is expelled to allow fusion of the viral nucleoid
+membrane with that of the cellular vacuole. Unprecedented
+assemblies specialized for release of the viral genome in host
+cells may prove to be a characteristic property of the very large
+viruses.
+
+Other Components of Virions
+
+Some virus particles comprise only the nucleic acid genome
+and structural proteins necessary for protection and delivery
+into a host cell. However, many contain additional viral pro-
+teins, which are generally present at much lower concentra-
+tions but essential or important for establishing an efficient
+infectious cycle (Table 4.3).
+
+Enzymes
+
+Many types of virus particles contain enzymes necessary for
+synthesis of viral nucleic acids. These enzymes generally cata-
+lyze reactions unique to virus-infected cells, such as synthesis
+
+Table 4.3 Some virion enzymes
+
+Virus Protein
+
+Adenovirus
+
+Human adenovirus type 2 13 23k
+
+Herpesvirus
+
+Herpes simplex virus type 1 vp24
+ULI3
+Vhs
+
+Orthomyxovirus
+
+Influenza A virus P proteins
+
+Poxvirus
+Vaccinia virus* DNA-dependent RNA polymerase
+(8 subunits)
+
+Poly(A) polymerase (2 subunits)
+Capping enzyme (2 subunits)
+DNA topoisomerase
+
+Proteases 1 and 2
+
+Reovirus
+Reovirus type 1 22
+23
+Retrovirus
+Human immunodeficiency virus Pol
+type 1
+IN
+PR
+Rhabdovirus
+Vesicular stomatitis virus L
+
+Structure 125
+
+of viral mRNAs from an RNA template or of viral DNA
+from an RNA template (retroviral reverse transcriptases).
+However, virions of vaccinia virus contain a DNA-depen-
+dent RNA polymerase, analogous to cellular RNA polymer-
+ases, as well as several enzymes that modify viral RNA
+transcripts (Table 4.3). This complement of enzymes is neces-
+sary because transcription of the viral double-stranded DNA
+genome takes place in the cytoplasm of infected cells, whereas
+cellular DNA-dependent RNA polymerases and the RNA-
+processing machinery are restricted to the nucleus. Other
+types of enzymes found in virus particles include integrase,
+cap-dependent endonuclease, and proteases. The proteases
+sever covalent connections within polyproteins or precursor
+proteins from which some virus particles assemble, a reaction
+that is necessary for the production of infectious particles
+(Chapter 13).
+
+Other Viral Proteins
+
+Virus particles may also contain additional viral proteins that
+are not enzymes but nonetheless are important for an efficient
+infectious cycle. Among the best characterized are the protein
+
+Function(s)
+Protease; production of infectious particles
+Protease; capsid maturation for genome encapsidation
+
+Protein kinase
+RNase
+
+RNA-dependent RNA polymerase; synthesis of viral mRNA and vRNA;
+cap-dependent endonuclease
+
+Synthesis of viral mRNA
+
+Synthesis of poly(A) on viral mRNA.
+Addition of 5’ caps to viral pre-mRNA
+Sequence-specific nicking of viral DNA
+Virus particle morphogenesis
+
+Guanylyltransferase
+Double-stranded RNA-dependent RNA polymerase
+
+Reverse transcriptase; proviral DNA synthesis
+
+Integrase; integration of proviral DNA into the cellular genome
+
+Protease; production of infectious particles
+
+RNA-dependent RNA polymerase; synthesis of viral mRNA and vRNA.
+
+ 
+
+“Vaccinia virions contain some 20 enzymes, only a few of which are listed.
+

@@ -1,0 +1,106 @@
+118 Chapter 4
+
+containing the (+) strand RNA genome. This inner protein
+layer is a T'= 4 icosahedral shell built from 240 copies ofa single
+capsid (C) protein arranged as hexamers and pentamers. The
+outer layer of the envelope also contains 240 copies of the
+viral glycoproteins El and E2, which form heterodimers. These
+heterodimers cover the surface of the particle, such that the
+lipid membrane is not exposed on the exterior. Strikingly,
+the glycoproteins are also organized into a T= 4 icosahedral
+shell (Fig. 4.24A).
+
+The structure of Sindbis virus has been determined by
+cryo-EM and image reconstruction to some 9-A resolution
+(Fig. 4.24A), while the structures of the El and C proteins of
+the related Semliki Forest virus have been solved at high res-
+olution. The organization of the alphavirus envelope, includ-
+ing the transmembrane anchoring of the outer glycoprotein
+layer to structural units of the nucleocapsid, can therefore be
+described with unprecedented precision. The transmem-
+brane segments of the El and E2 glycoproteins form a pair of
+tightly associated @-helices, with the cytoplasmic domain of
+E2 in close apposition to a cleft in the capsid protein (Fig.
+4.24B and C). This interaction accounts for the 1:1 symmetry
+match between the internal capsid and exterior glycopro-
+teins. On the outer surface of the membrane, the external
+portions of these glycoproteins, together with the E3 protein,
+form an unexpectedly elaborate structure: a thin T = 4 icosa-
+hedral protein layer covers most of the membrane (Fig. 4.24A
+and B) and supports the spikes, which are hollow, three-lobed
+projections (Fig. 4.24C).
+
+ 
+
+|_ Lipid bilayer
+|_Glycoprotein spike
+
+Transmembrane
+helix
+
+Skirt
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘The structures formed by external domains of membrane
+proteins of the important human pathogens West Nile virus
+and dengue virus (family Flaviviridae) are quite different:
+they lie flat on the particle surface rather than forming pro-
+truding spikes (Fig. 4.25; see also Box 4.9). Nevertheless, the
+alphavirus El protein and the single flavivirus envelope (E)
+protein exhibit the same topology (Fig. 4.25A), suggesting
+that the genes encoding them evolved from a common ances-
+tor. Furthermore, the external domains of flaviviral E proteins
+are also icosahedrally ordered, and the envelopes of viruses
+of these families are described as structured. In contrast, as
+described in the next section, the arrangement of membrane
+proteins generally exhibits little relationship to the structure
+of the capsid or internal nucleoprotein when virus particles
+contain additional protein layers.
+
+ 
+
+Enveloped Viruses with an Ad: nal
+
+Protein Layer
+
+Enveloped viruses of several families contain an additional
+protein layer that mediates interactions of the genome-
+containing structure with the viral envelope. In the simplest
+case, a single viral protein, termed the matrix protein, welds
+an internal ribonucleoprotein to the envelope. This arrange-
+ment is found in members of several groups of (-) strand
+RNA viruses (Fig. 4.6C; Appendix, Fig. 17 and 31). Retrovirus
+particles also contain an analogous, membrane-associated
+matrix protein (MA), which is closely associated with the in-
+ner surface of the viral envelope.
+
+   
+
+ae
+2a tiie
+
+bilayer
+
+ 
+
+Figure 4.24 Structure of a simple enveloped virus, Sindbis virus. (A) Cross section through the cryo-EM density map of Sindbis virus, a
+member of the alphavirus genus of the Togaviridae, at 11-A resolution. The lipid bilayer of the viral envelope is clearly defined at this resolution, as
+are the transmembrane domains of the glycoproteins. (B) Different layers of the particle, based on the fitting of a high-resolution structure of the
+El glycoprotein into a 9-A reconstruction of the virus particle. The nucleocapsid (red) (C protein) surrounds the genomic (+) strand RNA. The
+RNA is the least well-ordered feature in the reconstruction, although segments (orange) lying just below the capsid protein appear to be ordered by
+interaction with this protein. The C protein penetrates the inner leaflet of the lipid membrane, where it interacts with the cytoplasmic domain of
+the E2 glycoprotein (blue). The membrane is spanned by rod-like structures that are connected to the skirt (see panel A) by short stems. (C) The
+structure of the El and E2 glycoproteins, obtained by fitting the crystal structure of the closely related Semliki Forest virus El glycoprotein into
+the 11-A density map and assigning density unaccounted for to the E2 glycoprotein. The three E2 glycoprotein molecules in a trimeric spike are
+colored light blue, dark blue, and brown, and the El molecules shown as backbone traces colored red, green, and magenta. The portions of the pro-
+teins that cross the lipid bilayer are helical. Adapted from Zhang W et al. 2002. J Virol 76:11645-11658, with permission. Courtesy of Michael
+
+Rossmann, Purdue University.
+

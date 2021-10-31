@@ -1,0 +1,112 @@
+108 Chapter 4
+
+molecules. The same capsid design is also exhibited by human
+papillomaviruses.
+
+Simian virus 40 and poliovirus capsids differ in their sur-
+face appearance, in the number of structural units, and in the
+ways in which these structural units interact. Nevertheless,
+they share important features, including modular organiza-
+tion of the proteins that form the capsid shell and a common
+B-barrel domain as the capsid building block. Neither polio-
+virus nor simian virus 40 capsids conform to strict quasi-
+equivalent construction: all contacts made by all protein
+subunits are not similar, and in the case of simian virus 40,
+the majority of VP1 pentamers are packed in hexameric ar-
+rays. Nevertheless, close packing with icosahedral symmetry
+is achieved by limited variations of the contacts, either among
+topologically similar, but chemically distinct, surfaces (polio-
+virus) or made by a flexible arm (simian virus 40).
+
+Structurally simple icosahedral capsids in more-complex
+particles. Several viruses that are architecturally more so-
+phisticated than those described in the previous sections
+nevertheless possess simple protein coats built from one or a
+few structural proteins. The complexity comes from the addi-
+tional protein and lipid layers in which the capsid is enclosed
+(see “Viruses with Envelopes” below).
+
+ 
+
+Structurally Sophisticated Capsids
+
+Some naked viruses are considerably larger and more elabo-
+rate than the small RNA and DNA viruses described in the
+previous section. The characteristic feature of such virus parti-
+cles is the presence of proteins devoted to specialized structural
+or functional roles. Despite such complexity, detailed pictures
+of the organization of this type of virus particle can be con-
+structed by using combinations of biochemical and structural
+methods. Well-studied human adenoviruses and members of
+the Reoviridae exemplify these approaches. These two exam-
+ples also illustrate distinct mechanisms by which large icosahe-
+dral capsids can be stabilized, via either specialized proteins
+that glue interactions among major capsid proteins or mutually
+reinforcing associations between protein layers.
+
+Adenovirus. The most striking morphological features of
+the adenovirus particle (maximum diameter, 150 nm) are the
+well-defined icosahedral appearance of the capsid and the
+presence of long fibers at the 12 vertices (Fig. 4.15A). A fiber,
+which terminates in a distal knob that binds to the adenovi-
+ral receptor, is attached to each of the 12 penton bases located
+at positions of fivefold symmetry in the capsid. The remain-
+der of the shell is built from 240 additional subunits, the tri-
+meric hexons (Fig. 4.15B). Formation of this capsid depends
+on nonequivalent interactions among subunits: the hexons
+that surround pentons occupy a different bonding environ-
+ment than those surrounded entirely by other hexons. The
+
+X-ray crystal structures of the trimeric hexon (the major cap-
+sid protein) established that each protein monomer contains
+two B-barrel domains, each with the topology of the f-barrels
+of the simpler RNA and DNA viruses described in the previ-
+ous section (Fig. 4.15B). The very similar topologies of the
+two B-barrel domains of the three monomers facilitate their
+close packing to form the hollow base of the trimeric hexon.
+Interactions among the monomers are very extensive, partic-
+
+   
+  
+   
+ 
+ 
+  
+  
+   
+ 
+
+A
+Fiber
+Terminal protein (TP) Penton }Penton
+— base
+Hexon Protein VI
+Protein Mu: Protein VII
+
+Protease Protein VIII
+
+Protein Illa
+
+Protein V
+
+Viral DNA Protein IX
+
+ 
+
+Figure 4.15 Structural features of adenovirus particles. (A)
+‘The organization of human adenovirus type 5 is shown schematically
+to indicate the locations of the major (hexon, penton base, and fiber)
+and minor (IIIa, VI, VIII, and IX) capsid proteins and of the internal
+core proteins, V, VII, and 1. The locations of these proteins and some
+interactions were initially deduced from the composition of the prod-
+ucts of controlled dissociation of viral particles and the results of cross-
+linking studies. This schematic is based on subsequent high-resolution
+structures of adenovirus particles. (B) Structure of the hexon homotri-
+mer from PDB ID: 1P30. The monomer (left) is shown as a ribbon dia-
+gram, with gaps indicating regions that were not defined in the X-ray
+crystal structure at 2.9-A resolution, and the trimer (right) is shown as
+a space-filling model with each monomer in a different color. The
+monomer contains two f-barrel jelly roll domains colored green and
+blue in the left panel. The trimers are stabilized by extensive interac-
+tions within both the base and the towers.
+

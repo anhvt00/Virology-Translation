@@ -1,0 +1,67 @@
+vP4 VP2 VP3 VPI
+ea)
+
+vPO
+
+ 
+
+Structure 105
+
+v1 4]
+
+ 
+
+Figure 4.12 Packing and structures of poliovirus proteins. (A) The packing of the 60 VP1-VP2-VP3 structural units, represented by wedge-
+shaped blocks corresponding to their B-barrel domains. Note that the structural unit (outlined in black) contributes to two adjacent faces of an ico-
+sahedron rather than corresponding to a facet. When virus particles are assembled, VP4 is covalently joined to the N terminus of VP2, from which
+it is later cleaved. It is located on the inner surface of the capsid shell (see Fig. 4.13A). (B) The topology of the polypeptide chain in a B-barrel jelly roll
+is shown at the top left. The B-strands, indicated by arrows, form two antiparallel sheets juxtaposed in a wedge-like structure. One of the B-sheets
+comprises one wall of the wedge, while the second, sharply twisted B-sheet forms both the second wall and the floor. The two dt-helices (purple cyl-
+inders) that surround the open end of the wedge are also conserved in location and orientation in these proteins. As shown, the VP1, VP2, and VP3
+proteins each contain a central B-barrel jelly roll domain. However, the loops that connect the B-strands in this domain of the three proteins vary
+considerably in length and conformation, particularly at the top of the B-barrel, which, as represented here, corresponds to the outer surface of the
+capsid. The N- and C-terminal segments of the protein also vary in length and structure. The very long N-terminal extension of VP3 has been trun-
+cated in this representation. The structures of VP1, VP2, and VP3 are from PDB ID: 1HXS.
+
+structures of cellular proteins have been highly conserved
+during evolution, even though there may be very little amino
+acid sequence identity. For example, all globins possess a
+common topology based on a particular arrangement of
+eight a-helices, even though their amino acid sequences are
+different. One interpretation of the common occurrence of
+the B-barrel jelly roll domain in viral capsid proteins is that
+seemingly unrelated modern viruses (e.g., picornaviruses
+and parvoviruses) share some portion of their evolutionary
+history. It is also possible that this domain topology repre-
+sents one ofa limited number commensurate with packing of
+proteins to form a sphere, and therefore an example of con-
+vergent evolution. The structural (and other) properties of vi-
+ruses with double-stranded DNA genomes provide compelling
+support for the first hypothesis (Box 4.5).
+
+‘The overall similarity in shape of the B-barrel domains of
+poliovirus VP1, VP2, and VP3 facilitates both their interaction
+with one another to form the 60 structural units of the capsid
+
+ 
+
+and the packing of these units. How well these interactions are
+tailored to form a protective shell is illustrated by the model of
+the capsid shown in Fig. 4.13: the extensive interactions among
+the B-barrel domains of adjacent proteins form a dense, rigid
+protein shell around a central cavity in which the genome re-
+sides. The packing of the B-barrel domains is reinforced by a
+network of protein-protein contacts on the inside of the capsid,
+which are particularly extensive about the fivefold axes (Fig.
+4.13C). The interaction of five VP1 molecules, which is unique
+to the fivefold axes, results in a prominent protrusion extend-
+ing to about 25 A from the capsid shell (Fig. 4.13A). The pro-
+trusion appears as a steep-walled plateau encircled by a valley
+or cleft. In the capsids of many picornaviruses, these depres-
+sions, which may contain the receptor-binding sites, are so
+deep that they have been termed canyons.
+
+One of several important lessons learned from high-
+resolution analysis of picornavirus capsids is that their design
+does not conform strictly to the principle of quasiequivalence.
+

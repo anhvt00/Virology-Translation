@@ -1,0 +1,114 @@
+112 Chapter 4
+
+design. This property is exemplified by the capsids of some
+retroviruses.
+
+‘The capsid of all retroviruses surrounds a nucleoprotein
+that contains the diploid (+) strand RNA genome. The capsid
+is surrounded by the viral matrix (M) protein, which is en-
+cased in the viral envelope. However, retroviral capsids may
+be spherical, cylindrical, or conical, the shape exhibited by
+capsids of human immunodeficiency virus type 1 and other
+lentiviruses (Fig. 4.18A and B). These capsids are built from a
+single capsid (CA) protein, which can form both pentamers
+and hexamers. The odd appearance of the human immuno-
+deficiency virus type 1 capsid might suggest that it represents
+an exception to the geometric rules that dictate the viral ar-
+chitectures described in previous sections. However, this is
+not the case: this capsid can be described by a fullerene cone
+model that combines principles of both icosahedral and heli-
+cal symmetry. In this model (Box 4.6), which has been con-
+firmed by cryo-electron tomography of intact virus particles,
+a closed structure is formed using 12 pentamers, just as in an
+icosahedral capsid. However, pentamers are not spaced at
+regular intervals throughout the structure. Rather, they are
+restricted to the terminal caps and separated by spirals (a
+variant of helical symmetry) of CA hexamers that form the
+body of the cone.
+
+Packaging the Nucleic Acid Genome
+
+A definitive property of a virion is the presence of a nucleic
+acid genome. Incorporation of the genome requires its dis-
+crimination from a large population of cellular nucleic acid.
+This packaging process is described in Chapter 13. The vol-
+umes of closed capsids are finite. Consequently, accommoda-
+tion of viral genomes necessitates a high degree of condensation
+and compaction. A simple analogy illustrates vividly the
+scale of this problem; packing of the ~150-kbp DNA genome
+of herpes simplex virus type 1 into the viral capsid is equiva-
+lent to stuffing some 10 ft of 22 American gauge wire (diame-
+ter, 0.644 mm) into a tennis ball. Such confinement of the
+genome can result in high internal pressure, equivalent to
+that generated in locomotive steam engines, some 18 and 25
+atm within herpes simplex virus type 1 and phage capsids,
+respectively. Such pressure provides the force that powers
+ejection of DNA genomes. Packaging of nucleic acids is an
+intrinsically unfavorable process because of the highly con-
+strained conformation imposed on the genome. In some cases,
+the force required to achieve packaging is provided, at least in
+part, by specialized viral proteins that harness the energy re-
+leased by hydrolysis of ATP to drive the insertion of DNA. In
+many others, the binding of viral RNA or DNA genomes to
+capsid proteins appears to provide sufficient energy. The lat-
+ter interactions also help to neutralize the negative charge of
+the sugar-phosphate backbone, a prerequisite for close juxta-
+position of genome sequences.
+
+We possess relatively little information about the organi-
+zation of genomes within viral particles: nucleic acids or pro-
+tein-nucleic acid assemblies are not visible in the majority of
+high-resolution structural studies reported. This limitation
+indicates that the genomes or internal structures lack the
+symmetry of the capsid, do not adopt the same conformation
+in every viral particle, or both. Nevertheless, three mecha-
+nisms for condensing and organizing nucleic acid molecules
+within capsids can be distinguished and are described in the
+following sections.
+
+Direct Contact of the Genome with
+
+a Protein Shell
+
+In the simplest arrangement, the nucleic acid makes direct
+contact with the protein(s) that forms the protective shell of the
+virus particle. Proteins on the inner surfaces of the icosahedral
+capsids of many small RNA viruses interact with the viral ge-
+nome. As we have seen, the interior surface of the poliovirus
+capsid can be described in detail. Nevertheless, we possess no
+structural information about the arrangement of the RNA ge-
+nome, for the nucleic acid is not visible in the X-ray structure.
+However, the genome of the porcine picornavirus Seneca Val-
+ley virus has been visualized by this method (albeit at low res-
+olution) (Fig. 4.19A). Much of the RNA genome forms an outer
+layer in which it makes extensive contact with the inner sur-
+face of the capsid. Highly ordered RNA genomes are also pres-
+ent in T = 3 nodaviruses, such as Flock house virus, in which
+an outer decahedral cage of ordered RNA surrounds addi-
+tional rings (Fig 4.19B). More recently, higher-resolution views
+(sufficient to observe some bases in the RNA!) of a small viral
+RNA genome have been obtained using cryo-EM reconstruc-
+tion without imposition of any symmetry (Box 4.7). This ap-
+proach is likely to be more widely applicable.
+
+Use of the same protein or proteins both to condense the
+genome and to build a capsid allows efficient utilization of
+limited genetic capacity. It is therefore an advantageous ar-
+rangement for viruses with small genomes. However, this
+mode of genome packing is also characteristic of some larger
+viruses, notably rotaviruses and herpesviruses. The genome
+of rotaviruses comprises 11 segments of double-stranded
+RNA located within the innermost of the three protein shells
+of the particle. Remarkably, as much as 80% of the RNA ge-
+nome appears highly ordered within the core, with strong el-
+ements of icosahedral symmetry (Fig. 4.19B).
+
+One of the most surprising properties of the large herpes-
+viral capsid is the absence of internal proteins associated with
+viral DNA: despite intense efforts, no such core proteins have
+been identified, and the viral genome has not yet been visu-
+alized. In contrast, cryo-EM has allowed visualization of the
+large, double-stranded DNA genome of bacteriophage 4,
+which is organized in closely apposed, concentric layers (Fig.
+4.20A). This arrangement illustrates graphically the remark-
+

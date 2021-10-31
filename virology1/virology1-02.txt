@@ -1,0 +1,88 @@
+In order to create something that functions properly—a con-
+tainer, a chair, a house—its essence has to be explored, for
+it should serve its purpose to perfection; i.e., it should fulfill
+its function practically and should be durable, inexpensive
+and beautiful.
+
+WALTER Gropius
+Neue Arbeiten der Bauhauswerkstiitten,
+Bauhaus Book no. 7, 1925
+
+Introduction
+
+Virus particles are elegant assemblies of viral, and occasion-
+ally cellular, macromolecules. They are marvelous examples
+of architecture on the molecular scale, with forms perfectly
+adapted to their functions. Virus particles come in many sizes
+and shapes (Fig. 4.1; also see Fig. 1.7) and vary enormously in
+the number and nature of the molecules from which they are
+built. Nevertheless, they fulfill common functions and are
+constructed according to general principles that apply to them
+all. These properties are described in subsequent sections,
+which include examples of the architectural detail character-
+istic of members of different virus families, and nonstructural
+components of virus particles needed for initiation of infec-
+tious cycles.
+
+Functions of the Virion
+
+Virus particles have been selected during evolution for effec-
+tive transmission of the nucleic acid genome from one host
+cell to another within a single organism or among host organ-
+isms (Table 4.1). A primary function of an infectious virus
+particle (called the virion) is protection of the genome, which
+can be damaged irreversibly by a break in the nucleic acid or
+by mutation during passage through hostile environments.
+During its travels, a virus particle may encounter a variety of
+potentially lethal chemical and physical agents, including
+proteolytic and nucleolytic enzymes; extremes of pH, humid-
+ity, or temperature; and various forms of natural radiation. In
+all virus particles, the nucleic acid is sequestered within a
+sturdy barrier formed by extensive interactions among the vi-
+ral proteins that comprise the protein coat. Such protein-
+
+protein interactions can maintain surprisingly stable capsids:
+many virus particles composed of only protein and nucleic
+acid survive exposure to large variations in the temperature,
+pH, or chemical composition of their environment. For exam-
+ple, when dried onto a solid surface, human rotavirus (a ma-
+jor cause of gastroenteritis) loses <20% of its infectivity in
+30 days at room temperature, whereas the infectivity of polio-
+virus (a picornavirus) is reduced by some 5 orders of magnitude
+within 2 days. This same reduction in infectivity of poliovi-
+rus requires >250 days when particles suspended in water are
+incubated at room temperature at neutral pH. Certain picor-
+naviruses are even resistant to very strong detergents. The
+highly folded nature of coat proteins and their dense packing
+to form shells render them largely inaccessible to proteolytic
+enzymes. Some viruses also possess an envelope, typically
+derived from cellular membranes, into which viral glycopro-
+teins have been inserted. The envelope adds not only a protec-
+tive lipid membrane but also an external layer of protein and
+sugars formed by the glycoproteins. Like the cellular mem-
+branes from which they are derived, viral envelopes are im-
+permeable to many molecules and block entry of chemicals or
+enzymes in aqueous solution.
+
+To protect the nucleic acid genome, virus particles must be
+stable. However, they must also attach to an appropriate host
+cell and deliver the genome to the interior of that cell, where
+the particle is at least partially disassembled. The protective
+function of virus particles depends on stable intermolecular
+interactions among their components during assembly,
+egress from the virus-producing cell, and transmission. On
+the other hand, these interactions must be reversed readily
+during entry and uncoating in a new host cell. In only a few
+cases do we understand the molecular mechanisms by which
+these apparently paradoxical requirements are met. Never-
+theless, it is clear that contact of a virion with the appropriate
+cell surface receptor or exposure to a specific intracellular en-
+vironment can trigger substantial conformational changes.
+Virus particles are therefore metastable assemblies that
+have not yet attained the minimum free energy conforma-
+tion (Fig. 4.2). The latter state can be attained only once an
+
+ 
+
+91
+

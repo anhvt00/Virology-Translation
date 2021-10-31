@@ -1,0 +1,137 @@
+102
+
+Chapter 4
+
+ 
+
+BACKGROUND
+
+‘The triangulation number, T, and how it is determined
+
+In developing their theories about virus struc-
+ture, Caspar and Klug used graphic illustra-
+tions of capsid subunits, such as the net of flat
+hexagons shown at the top left of panel A in the
+figure. Each hexagon represents a hexamer,
+with identical subunits shown as equilateral
+triangles. When all subunits assemble into
+such hexamers, the result is a flat sheet, or lat-
+tice, which can never form a closed structure.
+To introduce curvature, and hence form three-
+dimensional structures, one triangle is re-
+moved from a hexamer to form a pentamer in
+which the vertex and faces project above the
+plane of the original lattice (A, far right). As an
+icosahedron has 12 axes of fivefold symmetry,
+12 pentamers must be introduced to form a
+closed structure with icosahedral symmetry. If
+12 adjacent hexamers are converted to pen-
+tamers, an icosahedron of the minimal size
+possible for the net is formed. This structure is
+built from 60 equilateral-triangle asymmetric
+units and corresponds to a T = 1 icosahedron
+(Fig. 4.9B). Larger structures with icosahedral
+symmetry are built by including a larger num-
+ber of equilateral triangles (subunits) per face
+(Fig. 4.10). In the hexagonal lattice, this is
+equivalent to converting 12 nonadjacent hex-
+amers to pentamers at precisely spaced and
+regular intervals.
+
+To illustrate this operation, we use nets in
+which an origin (0) is fixed and the positions
+of all other hexamers are defined by the coor-
+dinates along the axes labeled h and k, where h
+and kare any positive integer (A, left). The hex-
+amer (h, k) is therefore defined as that reached
+from the origin (O) by h steps in the direction
+of the h axis and k steps in the direction of the
+kaxis. In the T'= 1 structure, h = 1 and k= 0 (or
+h = 0 and k = 1), and adjacent hexamers are
+converted to pentamers. When h = 1 and k= 1,
+pentamers are separated by one step in the h
+and one step in the k direction. Similarly, when
+h = 2and k = 0 (or vice versa), two steps in a
+single direction separate the pentamers.
+
+‘The triangulation number, T, is the num-
+ber of asymmetric units per face of the icosa-
+hedron constructed in this way. It can be
+shown, for example by geometry, that
+
+T=h+hk+k
+‘Therefore, when both h and k are 1, T = 3, and
+each face of the icosahedron contains three
+asymmetric units. The total number of units,
+which must be 607, is 180. When T = 4, there
+are four asymmetric units per face and a total
+of 240 units (Fig. 4.10).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+&
+
+ 
+
+B P22,T=7
+
+  
+
+oT = (2? + (2)(1) + (1)? =
+
+HSV-1, T = 16 k
+
+ 
+
+2. T= (4)? + (4)(0) + (0)? = 16
+
+As the integers h and k describe the spac-
+ing and spatial relationships of pentamers,
+that is, of fivefold vertices in the correspond-
+ing icosahedra, their values can be deter-
+mined by inspection of electron micrographs
+of virus particles or their constituents (B).
+For example, in the bacteriophage p22 capsid
+(B, top), one pentamer is separated from an-
+other by two steps along the h axis and one
+step along the k axis, as illustrated for the
+bottom left pentamer shown. Hence, h = 2, k
+= 1, and T =7. In contrast, pentamers of the
+herpes simplex virus type 1 (HSV-1) nucleo-
+capsid (bottom) are separated by four and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+zero steps along the directions of the h and k
+axes, respectively. Therefore, h = 4, k= 0, and
+T=16.
+
+Recent application of the principles ap-
+plied by Caspar and Klug to other uniform
+lattices that can form icosahedra has general-
+ized the theory of quasiequivalence to ac-
+count for structures of virus particles that
+appeared as exception, for example, T = 2
+protein shells.
+
+Cryo-electron micrographs of bacterio-
+phage p22 and HSV-1 courtesy of BV.V. Prasad
+and W. Chiu, Baylor College of Medicine,
+respectively.
+

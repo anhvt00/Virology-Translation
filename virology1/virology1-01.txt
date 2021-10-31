@@ -1,0 +1,96 @@
+@ e
+4 @ Structure
+
+ 
+
+Introduction
+Functions of the Virion
+Nomenclature
+
+Methods for Studying Virus
+Structure
+
+ 
+
+Building a Protective Coat
+Helical Structures
+Capsids with Icosahedral Symmetry
+Other Capsid Architectures
+Packaging the Nucleic Acid
+Genome
+
+Direct Contact of the Genome with
+a Protein Shell
+
+Packaging by Specialized Viral Proteins
+Packaging by Cellular Proteins
+
+Viruses with Envelopes
+Viral Envelope Components
+
+Simple Enveloped Viruses: Direct
+Contact of External Proteins with
+the Capsid or Nucleocapsid
+
+Enveloped Viruses with an Additional
+Protein Layer
+
+Large Viruses with Multiple
+Structural Elements
+Particles with Helical or Icosahedral Parts
+Alternative Architectures
+
+Other Components of Virions
+
+Enzymes
+
+Other Viral Proteins
+
+Cellular Macromolecules
+Mechanical Properties of Virus
+Particles
+
+Investigation of Mechanical Properties
+of Virus Particles
+
+Stabilization and Destabilization of
+Virus Particles
+
+Perspectives
+References
+Study Questions
+
+ 
+
+LINKS FOR CHAPTER 4
+
+>>| Video: Interview with Dr. Michael Rossmann
+
+http://bit.ly/Virology_Rossmann
+
+>>| Movie 4.1: Virus-based piezoelectric
+generator
+http://bit.ly/Virology_piezo
+
+)>| Movie 4.2: Cryo-EM reconstruction
+of the adenovirus type 5 capsid
+http://bit.ly/ Virology AD5Cap
+
+>>| Sizing up adenovirus
+http://bit.ly/Virology Twiv101
+
+>>| The Big Picture Book of Viruses
+http://www.virology.net/Big_Virology/
+BVHomePage.html
+
+>>| ViralZone
+http://viralzone.expasy.org/
+
+>>| Viruses in the extreme
+http://bit.ly/Virology_5-28-15,
+
+>>| Virus particle explorer
+http://viperdb.scripps.edu/
+
+ 
+

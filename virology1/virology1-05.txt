@@ -1,0 +1,108 @@
+Scanned micrograph
+
+ 
+
+Boxed
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+  
+
+Fourier
+transform
+
+J
+
+Determine phase centers
+and orientations
+
+ 
+
+Merged transform Refine
+
+ 
+
+| Inverse Fourier transform
+
+   
+
+3D reconstruction
+
+ 
+
+ 
+
+Concentrated preparations of purified virus particles are prepared for
+cryo-electron microscopy by rapid freezing on an electron
+microscope grid so that a glasslike, noncrystalline water layer is
+produced. This procedure avoids sample damage that can be caused
+by crystallization of the water or by chemical modification or
+dehydration during conventional _ negative-contrast electron
+microscopy. The sample is maintained at or below —160°C during all
+subsequent operations. Fields containing sufficient numbers of
+vitrified virus particles are identified by transmission electron
+microscopy at low magnification (to minimize sample damage from
+the electron beam) and photographed at high resolution (top).
+
+These electron micrographs can be treated as two-dimensional
+projections (Fourier transforms) of the particles. Three-dimensional
+structures can be reconstructed from such two-dimensional
+projections by mathematically combining the information included
+in different views of the particles. For the purpose of reconstruction,
+the images of different particles are treated as different views of the
+same structure.
+
+For reconstruction, micrographs are digitized for computer
+processing. Each particle to be analyzed is then centered inside a box,
+and its orientation is determined by application of programs that
+orient the particle on the basis of its icosahedral symmetry. In
+cryo-electron tomography, images are collected with the sample at
+different angles to the electron beam and combined computationally
+to reconstruct a three-dimensional structure. The advantage of this
+approach is that no assumptions about the symmetry of the structure
+are required. The parameters that define the orientation of the particle
+must be determined with a high degree of accuracy, for example, to
+within 1° for even a low-resolution reconstruction (~40 A).
+
+Once the orientations of a number of particles sufficient to represent
+all parts of the asymmetric unit have been determined, a
+low-resolution three-dimensional reconstruction is calculated from
+the initial set of two-dimensional projections by using computational
+methods.
+
+This reconstruction is refined by including data from additional views
+(particles). The number of views required depends on the size of the
+particle and the resolution sought. The reconstruction is initially
+interpreted in terms of the external features of the virus particle.
+Various computational and computer graphics procedures have been
+developed to facilitate interpretation of internal features. Courtesy of
+B.WN. Prasad, Baylor College of Medicine.
+
+And is it not true that even the small step of a glimpse through the
+microscope reveals to us images that we should deem fantastic and
+over-imaginative if we were to see them somewhere accidentally, and
+lacked the sense to understand them.
+
+Paul Klee, On Modern Art, translated by Paul Findlay (London,
+United Kingdom, 1948)
+
+jure 4.3 Cryo-EM and image reconstruction illustrated with rotavirus.
+

@@ -1,0 +1,64 @@
+Structure 107
+
+B Cc
+Plateau
+
+      
+   
+
+Canyon
+
+VP3
+
+Myristate
+vP4
+
+ 
+
+VPI
+
+ 
+
+Figure 4.13 Interactions among the proteins of the poliovirus capsid. (A) Ribbon representation of the particle, with four pentamers
+removed from the capsid shell and VP1 in blue, VP2 in green, VP3 in red, and VP4 in yellow, as in Fig. 4.12A, and myristate chains in white. Note
+the large central cavity in which the RNA genome resides; the dense protein shell formed by packing of the VP1, VP2, and VP3 B-barrel domains;
+and the interior location of VP4, which decorates the inner surface of the capsid shell. (B) Space-filling representation of the exterior surface show-
+ing the packing of the B-barrel domains of VP1, VP2, and VP3. Interactions among the loops connecting the upper surface of the B-barrel domains
+of these proteins create the surface features of the virion, such as the plateaus at the fivefold axes, which are encircled by a deep cleft or canyon. The
+particle is also stabilized by numerous interactions among the proteins on the inner surface of the capsid. (C) These internal contacts are most ex-
+tensive around the fivefold axes, where the N termini of five VP3 molecules are arranged in a tube-like, parallel B-sheet. The N termini of VP4 mol-
+ecules carry chains of the fatty acid myristate, which are added to the protein posttranslationally. The lipids mediate interaction of the B-sheet
+formed by VP3 N termini with a second B-sheet structure, containing strands contributed by both VP4 and VPI molecules. This internal structure
+is not completed until the final stages of, or after, assembly of virus particles, when proteolytic processing liberates VP2 and VP4 from their precur-
+sor, VPO. This reaction therefore stabilizes the capsid. Panels A and B were created by Jason Roberts, Doherty Institute, Melbourne, Australia.
+
+VPI
+Pentamer with
+6 neighbors
+
+VP1
+Pentamer with
+5 neighbors
+
+   
+ 
+ 
+
+Figure 4.14 Structural features of simian virus 40. (A) View of the simian virus 40 particle showing the organization of VP1 pentamers. One
+of the 12 5-coordinated pentamers is shown in purple and 10 of the 60 pentamers present in hexameric arrays are in light gray. The individual VP1
+molecules in the pentamers surrounding a pentamer with five neighbors (purple) are colored red, blue, green, yellow, and orange. The image was cre-
+ated by Jason Roberts, Doherty Institute, Melbourne, Australia. (B) The topology of the VP1 protein shown in a ribbon diagram, with the strands of
+the B-barrel jelly roll colored as in Fig. 4.12B. This f-barrel domain is perpendicular to the capsid surface. The C-terminal arm and @.-helix shown in
+magenta is the invading arm from a different neighboring pentamer (not shown), which is clamped in place by extensive interactions of its -strand
+with the N-terminal segment of the subunit shown. This subunit also interacts with the N-terminal arm from its anticlockwise neighbor in the same
+pentamer (not shown). (C) VP1 pentamer with each subunit shown in a different color, and one VP! from a neighboring pentamer (colored magenta)
+showing the C-terminal arm invading the yellow VPI of the neighboring pentamer. The structures shown in panels B and C are from PDB ID: ISVA.
+
+(compare Fig. 4.13A and 4.14A). Furthermore, the VPI mole- _ packing of VP1 pentamers in both pentameric and hexa-
+
+cules present in adjacent pentamers in the simian virus 40 cap- meric arrays requires different contacts among these struc-
+sid do not make extensive contacts via the surfaces of their tural units. In fact, there are just three kinds of interpentamer
+B-barrel domains. Rather, stable interactions among pen- contact, which are the result of alternative conformations and
+
+tamers are mediated by their N- and C-terminal arms. The _noncovalent interactions of the long C-terminal arms of VP1
+

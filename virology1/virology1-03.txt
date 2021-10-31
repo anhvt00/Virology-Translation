@@ -1,0 +1,104 @@
+92 Chapter 4
+
+ 
+
+Figure 4.1 Variation in the size and shape of virus particles.
+(A) Cryo-electron micrographs of mimivirus and, in the inset (upper
+left), the parvovirus adeno-associated virus type 4, shown to scale rela-
+tive to one another to illustrate the ~50-fold range in diameter among
+viruses that appear roughly spherical. The mimivirus particle (A) is
+structurally complex: a large number of long, closely packed filaments
+project from its surface; and one vertex of the capsid carries a unique
+structure called the stargate, which opens in infected cells to release the
+viral genome. Rod-shaped viruses also exhibit considerable variation in
+size, ranging in length from <200 nm to ~2,000 nm. Photos reprinted from.
+Xiao C etal. 2005. J Mol Biol 353:493-496, and Pardon E etal. 2005. J Virol
+79:5047-5058, respectively, with permission. Courtesy of Y. Mustafi,
+National Institutes of Health, and M. Agbandje-McKenna, University
+of Florida, Gainesville. (B) Nonsymmetric shape of Acidianus bottle-
+shaped virus isolated from a hot spring in Italy. Adapted from Haring M
+et al. 2005. J Virol 79:9904-9911, with permission. Courtesy of D.
+Prangishvili, Institut Pasteur.
+
+Table 4.1 Functions of virion proteins
+
+Protection of the genome
+
+‘Assembly of a stable protective protein shell
+
+Specific recognition and packaging of the nucleic acid genome
+Interaction with host cell membranes to form the envelope
+Delivery of the genome
+
+Binding to external receptors of the host cell
+
+Transmission of signals that induce uncoating of the genome
+Induction of fusion with host cell membranes
+
+Interaction with internal components of the infected cell to direct
+transport of the genome to the appropriate site
+
+Other functions
+
+Interactions with cellular components for transport to intracellular sites of
+assembly
+
+Interactions with cellular components to ensure an efficient infectious cycle
+
+ 
+
+unfavorable energy barrier has been surmounted, following
+induction of the irreversible conformational transitions that
+are associated with attachment and entry. Virions are not
+simply inert entities. Rather, they are molecular machines
+(nanomachines) that play an active role in delivery of the nu-
+
+ 
+
+ 
+
+Figure 4.2 Free energy changes in virus particles. Mature virus
+particles occupy a free energy minimum (1); that is, they are stable, but
+have not attained the structure with the lowest free energy. Rather, they
+are primed during assembly and maturation to undergo irreversible
+conformational transitions (2) that overcome the energy barrier to that
+lower (more favorable) free energy state (3), and to disassemble at least
+partially. Such transitions are typically triggered by contact with a host
+cell receptor or coreceptor or such changes in the environment as a
+drop in pH. G, free energy; X, reaction coordinate (for example, time
+after addition of virus particles to susceptible host cells).
+
+cleic acid genome to the appropriate host cell and initiation of
+the reproductive cycle.
+
+‘As might be anticipated, elucidation of the structures of vi-
+rus particles and individual structural proteins has illuminated
+the mechanisms of both assembly of viral nanomachines in the
+final stages of an infectious cycle and their entry into a new host
+cell. High-resolution structural information can also facilitate
+identification of targets for antiviral drugs, as well as the design
+of such drugs (Volume II, Chapter 8), and provide insights into
+the dynamic interplay between important viral pathogens and
+host adaptive immune responses (Volume II, Chapter 4). As we
+shall see, cataloguing of virus architecture has also revealed
+completely unanticipated relationships among viruses of differ-
+ent families that infect evolutionarily divergent hosts, and has
+suggested new principles of virus classification.
+
+Nomenclature
+
+Virus architecture is described in terms of structural units
+of increasing complexity, from the smallest biochemical unit
+(the polypeptide chain) to the infectious particle (or virion).
+These terms, which are used throughout this text, are defined
+in Table 4.2. Although virus particles are ordered assemblies
+of macromolecules exquisitely suited for protection and deliv-
+ery of viral genomes, they are constructed according to the
+general principles of biochemistry and protein structure.
+
+Methods for Studying Virus Structure
+
+Electron microscopy is the most widely used method for the
+examination of structure and morphology of virus particles.
+‘This technique, which has been applied to viruses since the
+

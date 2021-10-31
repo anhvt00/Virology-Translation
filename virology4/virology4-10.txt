@@ -1,0 +1,121 @@
+Structure 129
+
+REFERENCE
+
+Reviews
+
+Condit RC, Moussatche N, Traktman P. 2006. In a nutshell: structure and
+assembly of the vaccinia virion. Adv Virus Res 66:31-124.
+
+Kaelber JT, Hryc CF, Chiu W. 2017. Electron cryomicroscopy of viruses at
+near-atomic resolutions. Annu Rev Virol 4:287-308.
+
+Klose T, Rossmann MG. 2014. Structure of large dsDNA viruses. Biol
+Chem 395:711-719.
+
+Leiman PG, Kanamaru S, Mesyanzhinov VV, Arisaka F, Rossmann MG.
+2003. Structure and morphogenesis of bacteriophage T4. Cell Mol Life Sci
+60:2356-2370.
+
+Marchetti M, Wuite G, Roos WH. 2016. Atomic force microscopy observa-
+tion and characterization of single virions and virus-like particles by nano-
+indentation. Curr Opin Virol 18:82-88.
+
+Perilla JR, Gronenborn AM. 2016, Molecular architecture of the retroviral
+capsid. Trends Biochem Sci 41:410-420.
+
+Ruigrok RW, Crépin T, Kolakofsky D. 2011. Nucleoproteins and nucleo-
+capsids of negative-strand RNA viruses. Curr Opin Microbiol 14:504-510.
+Stubbs G. 1990. Molecular structures of viruses from the tobacco mosaic
+virus group. Semin Virol 1:405-412.
+
+Vaney MC, Rey FA. 2011. Class II enveloped viruses. Cell Microbiol
+13:1451-1459.
+
+Papers of Special Interest
+
+Bauer DW, Huffman JB, Homa FL, Evilevitch A. 2013. Herpes virus ge-
+nome, the pressure is on. J Am Chem Soc 135:11216-11221.
+
+‘he first experimental measurement of the high internal pressure within a
+human virus capsid.
+
+Caspar DL, Klug A. 1962. Physical principles in the construction of regular
+viruses. Cold Spring Harb Symp Quant Biol 27:1-24.
+
+‘Theoretical principles of quasiequivalence and triangulation number for con-
+struction of icosahedral virus particles.
+
+Crick FH, Watson JD. 1956. Structure of small viruses. Nature 177:473-475.
+‘The classic proposal that viruses are built from identical subunits (for genetic
+economy) arranged with helical or platonic polyhedral symmetry.
+
+Harrison SC, Olson AJ, Schutt CE, Winkler FK, Bricogne G. 1978. To-
+mato bushy stunt virus at 2.9 A resolution. Nature 276:368-373.
+
+First X-ray crystal structure of an icosahedral virus and identification of the B-
+barrel jelly roll topology. Note the high resolution achieved even more than
+40 years ago!
+
+Hogle JM, Chow M, Filman DJ. 1985. Three-dimensional structure of po-
+liovirus at 2.9 A resolution. Science 229:1358-1365.
+
+Rossman MG, Arnold E, Erickson JW, Frankenberger EA, Griffith JP,
+Hecht H-J, Johnson JE, Kamer G, Luo M, Mosser AG, Rueckert RR,
+
+Sherry B, Vriend G. 1985. Structure of a human common cold virus and
+functional relationship to other picornaviruses. Nature 317:145-153.
+
+The first three-dimensional structures of human viruses.
+
+Liu H, Jin L, Koh SB, Atanasov I, Schein $, Wu L, Zhou ZH. 2010. Atomic
+structure of human adenovirus by cryo-EM reveals interactions among
+protein networks. Science 329:1038-1043.
+A milestone in cryo-EM of virus particles, a 3.6-A resolution structure of hu-
+‘man adenovirus type 5, a large virus particle that includes several stabilizing
+proteins.
+
+Mancini EJ, Clarke M, Gowen BE, Rutten T, Fuller SD. 2000. Cryo-elec-
+tron microscopy reveals the functional organization of an enveloped virus,
+Semliki Forest virus. Mol Cell 5:255-266.
+
+‘This <10-A resolution cryo-EM structure revealed the organization of trans-
+membrane segments of the viral glycoproteins and contacts between the cap-
+sid and glycoproteins.
+
+Massiah MA, Starich MR, Paschall C, Summers MF, Christensen AM,
+Sundquist WI. 1994. Three-dimensional structure of the human immuno-
+deficiency virus type 1 matrix protein. J Mol Biol 244:198-223.
+
+The first structure of an internal viral protein reported.
+
+Sharma M, Yi M, Dong H, Qin H, Peterson E, Busath DD, Zhou HX,
+Cross TA. 2010. Insight into the mechanism of the influenza A proton
+channel from a structure ina lipid bilayer. Science 330:509-512.
+
+Insights into the mechanism of action of a viroporin from structural biology.
+‘Twarock R, Luque A. 2019, Structural puzzles in virology solved with an over-
+arching icosahedral design principle. Nat Commun 10:4414.
+An important generalization and extension of the principle of quasiequivalence.
+Varnum SM, Streblow DN, Monroe ME, Smith P, Auberry KJ, Pasa-Tolic L,
+Wang D, Camp DG II, Rodland K, Wiley S, Britt W, Shenk T, Smith RD,
+Nelson JA. 2004. Identification of proteins in human cytomegalovirus
+(HCMV) particles: the HCMV proteome. J Virol 78:10960-10966.
+An early example of application of mass spectrometry to virus particles.
+Wilson IA, Skehel JJ, Wiley DC. 1981. Structure of the haemagglutinin
+membrane glycoprotein of influenza virus at 3 A resolution. Nature 289:
+366-373.
+
+X-ray crystal structure of the external domain of this glycoprotein, the first to
+be determined.
+
+Websites
+http://viperdb.scripps.edu/ Virus Particle Explorer
+
+http://viralzone.expasy.org/ ViralZone
+
+http://wwwwvirology.net/Big_Virology/BVHomePage.html The Big Picture
+Book of Viruses
+
+http://virology.wisc.edu/virusworld/ Virusworld
+

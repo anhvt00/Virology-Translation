@@ -1,0 +1,85 @@
+A. Seneca Valley Virus
+
+Figure 4.19 Ordered RNA genomes in small and large icosa-
+hedral virus particles. (A) The 20-A X-ray crystal structure of the pi-
+cornavirus Seneca Valley virus viewed down a twofold axis of icosahedral
+symmetry, showing the density ascribed to the RNA genome (brown).
+‘The structural proteins are colored as in Fig. 4.12 and 4.13: VP1 (blue),
+VP2 (green), VP3 (red), and VP4 (yellow). (B) Outer layer of the double-
+stranded, segmented RNA genome of the rotavirus bluetongue virus ob-
+served at 6.5-A resolution by X-ray crystallography of viral cores. The
+electron density of this layer of RNA (green) from maps averaged be-
+tween two closely related serotypes is shown with A-form duplex RNA
+modeled into the rods of density. These RNA spirals represent some 80%
+of the >19-kbp genome. Reprinted from Gouet P et al. 1999. Cell 97:-
+481-490, with permission. Courtesy of D.I. Stuart, University of Oxford.
+
+ably dense packing needed to accommodate such large viral
+DNA genomes in closed structures of fixed dimensions. This
+type of organization must require neutralization of the
+negative charges of the sugar-phosphate backbone. Neutral-
+ization might be accomplished by proteins that form the in-
+ner surface of the capsid, or by the incorporation of small,
+basic peptides made by the host cell, such as spermine and
+spermidine.
+
+ 
+
+Structure 113
+
+Packaging by Specialized Viral Proteins
+
+In many virus particles, the genome is associated with spe-
+cialized nucleic acid-binding proteins, such as the nucleo-
+capsid proteins of (-) strand RNA viruses and (+) strand
+retroviruses, or the core proteins of adenoviruses. An impor-
+tant function of such proteins is to condense and protect viral
+genomes. Consequently, they do not recognize specific nucleic
+acid sequences but rather bind nonspecifically to RNA or
+DNA genomes. This mode of binding is exemplified by the
+structure of the vesicular stomatitis virus N protein, in which
+9 nucleotides of RNA are tightly but nonspecifically bound in
+a cavity formed between the two domains of each N protein
+molecule (Fig. 4.7). These protein-RNA interactions both se-
+quester the RNA genome and organize it into a helical struc-
+ture. Formation of helical ribonucleoproteins by two-domain
+RNA-binding proteins is a packaging mechanism common
+among (-) strand RNA viruses in the order Mononegavirales:
+the N proteins of representatives of other families in the order
+exhibit the same two-lobed structure and mode of RNA bind-
+ing (Fig. 4.21).
+
+Electron microscopy of cores released from adenovirus
+particles and cryo-EM of virus particles have suggested that
+the internal nucleoprotein is also arranged in some regular
+fashion. However, how the viral DNA genome is organized
+and condensed by the core proteins is not known: the nucleo-
+protein was not observed in the high-resolution structures of
+adenovirus particles described previously, and the structures
+of core proteins have not been determined. The fundamental
+DNA packaging unit is a multimer of protein VII, which ap-
+pears as beads on a string of adenoviral DNA when other
+core proteins are removed. Protein VII binds tightly to and
+condenses double-stranded DNA in vitro, consistent with a
+packaging function, but has been reported to be dispensable
+for assembly of virus particles (Chapter 13). Protein VII and
+the other core proteins are basic, as would be expected for
+proteins that bind to a negatively charged DNA molecule
+without sequence specificity.
+
+Packaging by Cellular Proteins
+
+‘The final mechanism for condensing the viral genome, by cel-
+lular proteins, is unique to polyomaviruses, such as simian vi-
+rus 40, and papillomaviruses. The circular, double-stranded
+DNA genomes released from these virus particles are orga-
+nized into nucleosomes that contain the four cellular core his-
+tones, H2A, H2B, H3, and H4, to form a minichromosome.
+Comparison of cryo-EM structures of purified particles of
+the human polyomavirus BK virus and virus-like particles
+formed only from VPI (the major structural protein) has re-
+vealed two radial shells of the DNA genome within virus par-
+ticles (Fig. 4.20B). The thickness of these shells (24 A) and the
+distance between them match those of double-stranded DNA
+within a human nucleosome. The 20 or so nucleosomes that
+

@@ -1,0 +1,115 @@
+126 Chapter 4
+
+primers for viral genome replication that are covalently
+linked to the genomes of picornaviruses such as poliovirus
+and adenoviruses. Others include several tegument pro-
+teins of herpesviruses, such as the VP16 protein, which ac-
+tivates transcription of viral immediate-early genes to
+initiate the viral program of gene expression. The cores of
+vaccinia virus also contain proteins that are essential for
+transcription of viral genes, as they allow recognition of vi-
+ral early promoters. Other herpesvirus tegument proteins
+induce the degradation of cellular mRNA or block cellular
+mechanisms by which viral proteins are presented to the host’s
+immune system. Retroviruses with complex genomes, such
+as human immunodeficiency virus type 1, contain addi-
+tional proteins required for efficient viral reproduction in
+certain cell types. These proteins are discussed in Volume II,
+Chapter 12.
+
+Cellular Macromolecules
+
+Virus particles can also contain cellular macromolecules that
+play important roles during the infectious cycle, such as the cel-
+lular histones that condense and organize polyomaviral and
+papillomaviral DNAs. Because they are formed by budding, en-
+veloped viruses can readily incorporate cellular proteins and
+other macromolecules. For example, cellular glycoproteins
+may not be excluded from the membrane from which the vi-
+ral envelope is derived. Furthermore, as a bud enlarges and
+pinches off during virus assembly, internal cellular compo-
+nents may be trapped within it. Enveloped viruses are also
+generally more difficult to purify than naked viruses. Indeed,
+analysis by the sensitive proteomic methods provided by mass
+spectrometry has identified from 50 to 100 cellular proteins
+in purified, enveloped particles of various herpesviruses, filo-
+viruses, and rhabdoviruses. Consequently, it can be difficult
+to distinguish cellular components specifically incorporated
+into enveloped virus particles from those trapped randomly
+or copurifying with the virus. Nevertheless, in some cases it is
+clear that cellular molecules are important components of vi-
+rus particles: these molecules are reproducibly observed at a
+specific stoichiometry and can be shown to be essential or
+play pivotal roles in the infectious cycle. The cellular compo-
+nents captured in retrovirus particles have been particularly
+well characterized.
+
+The primer for initiation of synthesis of the (-) strand
+DNA during reverse transcription in retroviral genomes is a
+specific cellular transfer RNA (tRNA), such as tRNALys3 in
+the case of human immunodeficiency virus type 1. These
+RNAs are incorporated into virus particles via association
+with the reverse transcriptase domains of one type of poly-
+protein (Gag-Pol) that in turn is assembled into particles via
+interactions with the Gag polyprotein (Chapter 13). The cog-
+nate human lysyl tRNA synthase is also selectively packaged
+
+ 
+
+into human immunodeficiency virus type 1 particles and fa-
+cilitates initiation of reverse transcription (Chapter 10).
+
+A variety of membrane proteins have been observed in
+retrovirus particles, but appear to be acquired nonspecifically
+by virtue of their presence at the sites of particle budding. In
+contrast, several cytoplasmic proteins of the host cell are pack-
+aged specifically. It was reported more than 20 years ago that
+human immunodeficiency virus type | particles contain cellu-
+lar cyclophilin A (PPlase A). This chaperone is the major cyto-
+plasmic member of a ubiquitous family of peptidyl-prolyl
+isomerases. It is bound to the N terminus of the capsid (CA)
+protein and catalyzes isomerization of a single Gly-Pro bond in
+the protein. Substitutions in CA that impair binding of cy-
+clophilin A reduce the infectivity of virus particles in some cell
+types. However, the effects of depletion of the cellular chaperone
+and of its inhibitors in virus-producing cells or in newly in-
+fected target cells have established that it is PPlase A present in
+new target cells, not the protein carried by incoming virus par-
+ticles, that is important. Its presence in virus particles is simply
+a secondary consequence of interactions with the CA domain
+of viral polyproteins.
+
+Clathrin heavy chain, which mediates formation of endo-
+somes (Chapter 5), is also selectively incorporated into the
+particles of many retroviruses. In the case of human immu-
+nodeficiency virus type 1, clathrin is recruited by a specific
+interaction with the integrase (IN) domain of the Gag-Pol
+polyprotein. Substitutions in the IN region that impair asso-
+ciation with clathrin reduce production of virus particles,
+and are thought to lead to premature processing of the poly-
+proteins from which particles assemble (Chapter 13).
+
+Cellular components present in virus particles may serve
+to facilitate virus reproduction, a property exemplified by the
+cellular tRNA primers for retroviral reverse transcription.
+However, incorporation of cellular components can also pro-
+vide antiviral defense. As discussed in Volume II, Chapters 3
+and 6, packaging of a cellular enzyme that converts cytosine
+to uracil (APOBEC3) into human immunodeficiency virus
+type | particles at the end of one infectious cycle leads to deg-
+radation and hypermutation of viral DNA synthesized early
+in the next cycle of infection.
+
+Mechanical Properties of Virus
+Particles
+
+Investigation of Mechanical Properties
+
+of Virus Particles
+
+As illustrated in the preceding sections, studies of purified
+virus particles by methods such as X-ray crystallography
+and cryo-EM can yield high-resolution descriptions of the
+interactions among particle components responsible for the
+assembly and sturdiness of these nanomachines. Such studies
+

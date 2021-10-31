@@ -1,0 +1,81 @@
+100 Chapter 4
+
+A Icosahedral symmetry
+
+Structural unit
+
+Fivefold axis
+
+_7 wotold axis
+
+Threefold axis
+
+BED
+
+Threefold Fivefold Twofold
+
+  
+
+Figure 4.9 Icosahedral packing in simple structures. (A) An icosahedron, which comprises 20 equilateral triangular faces characterized by
+positions of five-, three-, and twofold rotational symmetry. The three views at the bottom illustrate these positions. (B and C) A comma represents
+asingle protein molecule, and axes of rotational symmetry are indicated as in panel A. In the simplest case, T= 1 (B), the protein molecule forms the
+structural unit, and each of the 60 molecules is related to its neighbors by the two-, three-, and fivefold rotational axes that define a structure with
+icosahedral symmetry. In such a simple icosahedral structure, the interactions of all molecules with their neighbors are identical. In the T = 3 struc-
+ture (C) with 180 identical protein subunits, there are three modes of packing of a subunit (shown in orange, yellow, and purple): a trimer (outlined
+in blue) is now the asymmetric unit, which, when replicated according to 60-fold icosahedral symmetry, generates the complete structure. The or-
+ange subunits are present in pentamers, formed by tail-to-tail interactions, and interact in rings of three (head to head) with purple and yellow sub-
+units, and in pairs (head to head) with a purple or a yellow subunit. The purple and yellow subunits are arranged in rings of six molecules (by
+tail-to-tail interactions) that alternate in the particle. Despite these packing differences, the bonding interactions in which each subunit engages are
+similar, that is, quasiequivalent: for example, all engage in tail-to-tail and head-to-head interactions. Adapted from Harrison SC. 1984. Trends Bio-
+
+chem Sci 9:345-351, with permission.
+
+(Fig. 4.9A). In a few cases, virus particles can be readily seen
+to be icosahedral (e.g., see Fig. 4.16A and 4.26). However,
+most closed capsids look spherical, and they often possess
+prominent surface features or viral glycoproteins in the enve-
+lope that do not conform to the underlying icosahedral sym-
+metry of the capsid shell. Nevertheless, the symmetry with
+which the structural units interact is that of an icosahedron.
+
+In solid geometry, each of the 20 faces of an icosahedron is
+an equilateral triangle, and five such triangles interact at each
+of the 12 vertices (Fig. 4.9A). In the simplest protein shells, a
+trimer of a single viral protein (the subunit) corresponds to
+each triangular face of the icosahedron: as shown in Fig.
+4.9B, such trimers interact with one another at the five-,
+three-, and twofold axes of rotational symmetry that define
+an icosahedron. As an icosahedron has 20 faces, 60 identical
+subunits (3 per face x 20 faces) is the minimal number needed
+to build a capsid with icosahedral symmetry.
+
+Large capsids and quasiequivalent bonding. In the sim-
+plest icosahedral packing arrangement, each of the 60 sub-
+units (structural or asymmetric units) consists of a single
+molecule in a structurally identical environment (Fig. 4.9B).
+Consequently, all subunits interact with their neighbors in an
+
+identical (or equivalent) manner, just like the subunits of he-
+lical particles such as that of tobacco mosaic virus. As the viral
+proteins that form such closed shells are generally <~100 kDa
+in molecular mass, the size of the viral genome that can be
+accommodated in this simplest type of particle is restricted
+severely. To make larger capsids, additional subunits must be
+included. Indeed, the capsids of the majority of animal viruses
+are built from many more than 60 subunits and can house
+very large genomes. In 1962, Donald Caspar and Aaron Klug
+developed a theoretical framework accounting for the prop-
+erties of larger particles with icosahedral symmetry. This the-
+ory has had enormous influence on the way virus architecture
+is described and interpreted.
+
+‘The triangulation number, T. A crucial idea introduced
+by Caspar and Klug was that of triangulation, the descrip-
+tion of the triangular face of a large icosahedron in terms of
+its subdivision into smaller triangles, termed facets (Fig. 4.10).
+This process is described by the triangulation number, T,
+which gives the number of small “triangles” (called struc-
+tural units) per face (Box 4.3). Because the minimum number
+of structural units required is 60, the total number of sub-
+units in the structure is 607.
+

@@ -1,0 +1,150 @@
+116 Chapter 4
+
+DISCUSSION
+A viral membrane directly surrounding the genome
+
+‘The membranes present in particles of animal
+viruses are external structures separated from
+the genome by at least one protein layer. As we
+have seen, internal protein layers contribute to
+condensation and organization of the genome
+via interactions of the nucleic acid with spe-
+cialized nucleic acid-binding proteins or the
+internal surfaces of capsids. However, this ar-
+rangement is not universal: the particles of
+some archaeal and bacterial viruses, as well as
+giant viruses that infect eukaryotes, contain an
+internal membrane derived from their host
+cells.
+
+This property is exemplified by Sulfolobus g
+turreted icosahedral virus, which infects a hy-
+perthermophilic archaeon. This virus has a
+double-stranded DNA genome, a major capsid
+protein containing two B-barrel jelly roll do-
+mains, and pentons built from dedicated viral
+proteins. The capsid encases a lipid membrane
+rather than an internal nucleoprotein core. As
+shown in panel A of the figure, a large space
+separates the capsid and the membrane, with
+contact between the capsid and the membrane
+limited to the fivefold axes of icosahedral sym-
+metry, where the most internal domain of the
+penton base protein contacts a viral trans-
+membrane protein. Particles purified from
+Sulfolobus turreted icosahedral virus-infected
+cells include forms that lack the capsid and ex-
+
+Archaeal
+
+Ether.
+inert ®
+
+   
+  
+
+The internal membrane of an archaeal vi-
+rus. (A) Cross section through a near-atomic-
+resolution reconstruction of Sulfolobus turreted
+icosahedral virus, showing the unique vertex
+structures (turrets) and the separation of the
+capsid shell from the membrane. The internal
+surface of the membrane (yellow) is in direct
+contact with the double-stranded DNA genome
+(red). Adapted from Veesler D et al. 2013. Proc
+Natl Acad Sci U S A 110:5504~-5509, with per-
+mission. Courtesy of C.-Y. Fu, The Scripps Re-
+search Institute. (B) Schematic comparison of
+archaeal monolayer membrane-forming and eu-
+karyotic bilayer membrane-forming lipids.
+
+Genome
+Membrane
+
+Capsid
+
+Turret
+
+ 
+
+Eukaryotic
+
+.
+
+either end to various polar head groups. Be-
+cause of the latter property, these lipids can
+form monolayer membranes, in contrast to the
+lipid bilayers formed in animal cells (panel B).
+The ether linkages, cyclopentane rings, and
+branched acyl chains considerably increase the
+stability of membranes formed from these
+specialized lipids, facilitating survival of the
+organism and protection of the Sulfolobus tur-
+reted icosahedral virus genome during transit
+through the harsh environments (e.g., pH 3
+and temperature of 80°C) inhabited by its host.
+
+linkage
+
+ 
+
+Khayat R, Fu CY, Ortmann AC, Young MJ, Johnson
+JE. 2010. The architecture and chemical stability of
+the archaeal Sulfolobus turreted icosahedral virus.
+
+hibit the size and morphology of lipid cores
+alone. These observations suggest that the
+membrane, rather than the capsid, is the major
+determinant of particle stability.
+
+‘The internal membrane of the Sulfolobus
+turreted icosahedral virus is built from mem-
+
+brane-forming lipids synthesized specifically
+in thermophilic and hyperthermophilic ar-
+chaea: they comprise long chains (e.g, Cy.
+compared to C,, to C,, typical of mammalian
+cells) that comprise cyclopentane rings and
+branched, isoprenoid-like units ether-linked at
+
+J Virol 84:9575-9583.
+
+Veesler D, Ng TS, Sendamarai AK, Eilers BJ, Law-
+rence CM, Lok $M, Young MJ, Johnson JE, Fu CY.
+2013. Atomic structure of the 75 MDa extremophile
+Sulfolobus turreted icosahedral virus determined by
+CryoEM and X-ray crystallography. Proc Natl Acad
+Sci US A 110:5504-5509.
+
+particles. Other viral glycoproteins that mediate cell attach-
+ment and entry, such as the E protein of the flavivirus tick-
+borne encephalitis virus, adopt a quite different orientation
+(and structure); the external domain of E protein is a flat,
+elongated dimer that lies on the surface of the viral membrane
+rather than projecting from it (Fig. 4.23B). Despite their lack
+of common structural features, the HA and the E proteins are
+both primed for dramatic conformational change to allow en-
+try of internal virion components into a host cell (Chapter 5).
+
+The high-resolution viral glycoprotein structures men-
+tioned above are those of the large external domains of the
+proteins that had been cleaved from the viral envelope by
+proteases. This treatment facilitates crystallization but, of
+course, precludes analysis of membrane-spanning or internal
+
+segments of the proteins, both of which may contribute to the
+structure or function of the proteins: membrane-spanning
+domains can contribute to the stability of oligomeric glyco-
+proteins, as in influenza virus hemagglutinin (HA), while in-
+ternal domains can anchor the envelope to internal structures.
+Improvements in resolution achieved by application of cryo-
+electron microscopy or tomography have allowed visualiza-
+tion of these segments of glycoproteins of some enveloped
+viruses.
+
+Other Envelope Proteins
+
+The envelopes of some viruses, including orthomyxovi-
+ruses, herpesviruses, and poxviruses, contain integral mem-
+brane proteins that lack large external domains or possess
+

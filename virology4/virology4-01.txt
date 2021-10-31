@@ -1,0 +1,108 @@
+120 Chapter 4
+
+DISCUSSION
+
+A virus particle with different structures in different hosts
+
+Throughout this chapter, we describe mature
+virus particles in terms of a single structure:
+“the” structure. However, it is important to
+appreciate that the architectures reported
+are those of particles isolated and examined
+under a single set of specific conditions, typ-
+ically far from physiological. Structural
+studies of the flavivirus dengue virus, an im-
+portant human pathogen, illustrate the con-
+formational plasticity of some mature virus
+particles.
+
+‘The organization of the single dengue vi-
+rus envelope glycoprotein, E, described in
+the text (Fig. 4.25) is that observed in parti-
+cles propagated in cells of the mosquito vec-
+tor maintained at 28°C. As noted previously,
+the E protein dimers are tightly packed and
+icosahedrally ordered. However, the epi-
+topes for binding of antibodies that neutral-
+ize the virus at 37°C are either partially or
+entirely buried, suggesting that the virus par-
+ticle might undergo temperature-dependent
+conformational transitions. Indeed, when
+particles are exposed to temperatures en-
+countered in the mammalian host (e.g.,
+37°C), they do expand significantly, expos-
+ing segments of the underlying membrane,
+
+28°C
+
+ 
+
+234°C
+
+Structures of dengue virus particles at 28°C (left) and at 234°C (right), with the axes of five-,
+three-, and twofold rotational symmetry indicated by a pentagon, triangle, and ellipse, re-
+spectively. The E protein dimers that lie at the twofold axes are shown in gray and the other dimers
+with one subunit in green and one in cyan. The two oligosaccharides attached to each E protein
+monomer are indicated in red and yellow. ‘The particles exposed to higher temperatures are charac-
+terized by exposed patches of membrane (purple) and significant reduction of dimer contacts at the
+threefold axes of icosahedral symmetry. Reprinted from Rey FA. 2013. Nature 497:443-444, with
+permission. Courtesy of F.A. Rey, Institut Pasteur.
+
+and the E protein interactions are altered
+(compare the left and right panels in the fig-
+ure). In fact, particles exposed to higher
+temperatures are heterogeneous, and the ex-
+ample shown in the figure (right) represents
+but one of multiple forms, identified during
+selection of particles for three-dimensional
+
+reconstruction. Because a heterogeneous
+population of particles with less well-ordered
+E protein dimers represents the form of den-
+gue virus recognized by the human immune
+system, these observations have important
+implications for the design of dengue virus
+vaccines.
+
+Fibriansah G, Ng TS, Kostyuchenko VA, Lee J, Lee S,
+‘Wang, Lok SM. 2013. Structural changes in dengue
+virus when exposed to a temperature of 37°C. J Virol
+87:7585-7592.
+
+‘Zhang X, Sheng J, Plevka P, Kuhn RJ, Diamond MS,
+Rossmann MG, 2013. Dengue structure differs at
+the temperatures of its human and mosquito hosts.
+Proc Natl Acad Sci US A 110:6795-6799.
+
+Particles with Helical or Icosahedral
+Parts
+
+Bacteriophage T4
+
+Bacteriophage T4, which has been studied for more than
+50 years, is the classic example of an architecturally elaborate
+virus that contains distinct parts that exhibit icosahedral or
+helical symmetry. The T4 particle, which is built from ~30 of
+the proteins encoded in the ~170-kbp double-stranded DNA
+genome, is a structurally elegant machine tailored for active
+delivery of the genome to host cells. The most striking feature
+is the presence of morphologically distinct and functionally
+specialized structures, notably the head containing the genome
+and a long tail that terminates in a baseplate from which six
+long tail fibers protrude (Fig. 4.26A).
+
+‘The head of the mature T4 particle, an elongated icosahe-
+dron, is built from hexamers of a single viral protein (gp23*).
+In contrast to the other capsids considered so far, two T num-
+bers are needed to describe the organization of gp23* in the
+two end structures (T = 13) and in the elongated midsection
+(T = 20). As in adenoviral capsids, the pentamers that occupy
+the vertices contain a different viral protein, and additional
+proteins reside on the outer or inner surfaces of the icosahedral
+shell (Fig. 4.26B). One of the 12 vertices is occupied by a unique
+structure termed the connector, which joins the head to the
+tail. Such structures are derived from a nanomachine termed
+the portal, which pulls DNA into immature heads. Portals are
+a characteristic feature of the capsids of other families of DNA-
+containing bacteriophages, as well as of herpesviruses.
+

@@ -1,0 +1,111 @@
+103
+
+Structure
+
+ 
+
+ 
+
+EXPERIMENTS
+Viral chain mail: not the electronic kind
+
+‘The mature capsid of the tailed, double-stranded
+DNA bacteriophage HK97 is a T = 7 structure
+built from hexamers and pentamers of a single
+viral protein, Gp5. The first hints of the remark-
+able and unprecedented mechanism of stabili-
+zation of this particle came from biochemical
+experiments, which showed the following:
+
++ A previously unknown covalent pro-
+tein-protein linkage forms in the final
+reaction in the assembly of the capsid:
+the side chain of a lysine in every Gp5
+subunit forms a covalent isopeptide
+bond with an asparagine in an adjacent
+subunit. Consequently, all subunits are
+joined covalently to each other.
+
+This reaction is autocatalytic, depend-
+ing only on Gp5 subunits organized in a
+particular conformational state: the cap-
+sid is enzyme, substrate, and product.
+HK97 mature particles are extraordi-
+narily stable and cannot be disassem-
+bled into individual subunits by boiling
+in strong ionic detergent.
+
+It was therefore proposed that the cross-link-
+ing also interlinks the subunits from adjacent
+structural units to catenate rings of hexamers
+and pentamers. The determination of the
+structure of the HK97 capsid to 3.6-A resolu-
+tion by X-ray crystallography has confirmed
+the formation of such capsid “chain mail” (fig-
+ure, panel A), akin to that widely used in ar-
+
+ 
+
+Chain mail in the bacteriophage HK97 capsid. (A) ‘Ihe exterior of the HK97 capsid is shown at
+the top, with structural units of the Gp5 protein in gray. The segments of subunits that are cross-
+linked into rings are colored the same, to illustrate the formation of catenated rings of subunits. The
+cross-linking is shown in the more detailed view below, down a quasithreefold axis with three pairs
+of cross-linked subunits. The isopeptide bonds are shown in yellow. The cross-linked monomers
+(shown in blue) loop over a second pair of covalently joined subunits (green), which in turn cross
+over a third pair (magenta). Adapted from Wikoff WR et al. 2000. Science 289:2129-2133, with per-
+mission. Courtesy of J. Johnson, The Scripps Research Institute. (B) Chain mail armor and sche-
+matic illustration of the rings that form the chain mail.
+
+Duda RL. 1998. Protein chainmail: catenated protein
+
+mor (B) until the development of the crossbow.
+The HK97 capsid is the first example of a
+protein catenane (an interlocked ring). This
+unique structure has been shown to increase
+
+the stability of the virus particle, and it may be
+necessary as the capsid shell is very thin. The
+delivery of the DNA genome to host cells via
+the tail of the particle obviates the need for
+capsid disassembly.
+
+in viral capsids. Cell 94:55-60.
+
+Wikoff WR, Liljas L, Duda RL, Tsuruta H, Hendrix
+RW, Johnson JE. 2000. Topologically linked protein
+rings in the bacteriophage HK97 capsid. Science
+289:2129-2133.
+
+the structural properties of many small and large viruses
+with icosahedral symmetry. However, it is now clear that the
+molecular arrangements adopted by specific segments of
+capsid proteins can govern the packing interactions of iden-
+tical subunits. The resulting large conformational differ-
+ences between small regions of chemically identical subunits
+were not anticipated in early considerations of virus struc-
+ture, because these principles were formulated when little
+was known about the conformational flexibility of proteins.
+As we discuss in the next sections, the architectures of both
+small and more-complex viruses can depart radically from
+the constraints imposed by quasiequivalent bonding. For ex-
+ample, the capsid of the small polyomavirus simian virus
+40 is built from 360 subunits, corresponding to the T = 6
+triangulation number excluded by the rules formulated by
+
+Caspar and Klug (Box 4.3). Furthermore, a capsid stabilized
+by covalent joining of subunits to form viral “chain mail”
+has been described (Box 4.4). Our current view of icosahe-
+drally symmetric virus structures is therefore one that in-
+cludes greater diversity in the mechanisms by which stable
+capsids can be formed than was anticipated by the pioneers
+in this field.
+
+Structurally Simple Capsids
+
+Several nonenveloped animal viruses are small enough to
+be amenable to high-resolution analysis by X-ray crystallog-
+raphy. To illustrate the molecular foundations of icosahedral
+architecture, we have chosen three examples, the parvovirus
+adenovirus-associated virus 2, the picornavirus poliovirus,
+and the polyomavirus simian virus 40.
+

@@ -1,0 +1,113 @@
+128 Chapter 4
+
+ical properties, the tip is applied (nanoindentation) to a specific
+point on the surface, such as an axis of icosahedral symmetry,
+to deform the particle. Measurement of the force applied as a
+function of distance (degree of indentation) allows measure-
+ment of such parameters as elasticity and the force required to
+break the particle at that point. This approach has led to fasci-
+nating insights into how virus particles meet the seemingly
+paradoxical requirements for high stability to protect viral ge-
+homes and efficient disassembly during entry into a host cell.
+
+   
+
+Stabilization and Destabilization of Virus Particles
+Inall but the simplest T'= 1 icosahedral capsids, there is some
+degree of mismatch between the pentons at the 12 vertices
+and the hexons that surround them. The frequent reinforce-
+ment of these associations at the vertices by especially exten-
+sive interactions among structural proteins, as in polioviruses
+(Fig. 4.13C), or by specialized “cement” proteins, as in human
+adenoviruses (Fig. 4.16B), is not therefore surprising. Never-
+theless, the vertices of icosahedral capsids that have been ex-
+amined by nanoindentation are the points most susceptible
+to breakage (Fig. 4.30B). Indeed, human adenovirus pentons
+are the first components to dissociate under mild pressure in
+vitro as well as during cell entry. Furthermore, binding of in-
+tegrin, the coreceptor for entry of these viruses (Chapter 5),
+to pentons further weakens the capsid.
+
+Among the minor capsid proteins of herpes simplex virus
+type 1 are two that bind both pentons and neighboring hexons.
+As might be anticipated, capsids that lack either of these pro-
+teins exhibit decreased stiffness. In some cases, the presence of
+the viral genome substantially increases capsid stability. For
+example, comparison of the mechanical properties of full and
+empty capsids of the (+) strand insect virus triatoma virus by
+nanoindentation identified pH-dependent changes: at neutral
+pH, as in infected cells, mature virus particles were some
+threefold stiffer than those without genomes and more resistant
+to deformation. However, these properties were reversed at a
+more alkaline pH, like that of the hindgut of the insect host,
+where the virus encounters host cells. Binding of the single-
+stranded DNA genome of the parvovirus minute virus of mice
+also increases the stiffness of virus particles, and concomitantly
+their resistance to thermal inactivation.
+
+A variety of viruses are assembled as immature forms that
+are converted to infectious particles upon proteolytic processing
+of structural protein precursors. It is now clearly established
+that such proteolytic cleavages are accompanied by mechanical
+alterations that increase internal pressure to facilitate DNA
+ejection (e.g, herpesviruses and many bacteriophages) or decrease
+the mechanical strength of virus particles to facilitate disassem-
+bly (eg, human adenoviruses) or entry into the host cell (e.g.,
+human immunodeficiency virus). Such mechanical transfor-
+mations are considered in Chapters 5 and 13.
+
+Perspectives
+
+Virus particles are among the most elegant and visually
+pleasing structures found in nature, as illustrated by the im-
+ages presented in this chapter. Now that many structures of
+particles or their components have been examined, we can
+appreciate the surprisingly diverse architectures they ex-
+hibit. Nevertheless, the simple principles of their construc-
+tion proposed more than 60 years ago remain pertinent: with
+few exceptions, the capsid shells that encase and protect nu-
+cleic acid genomes are built from a small number of proteins
+arranged with helical or icosahedral symmetry. This feature
+is characteristic of even some of the largest viruses yet described,
+indicating that not only genetic economy but also optimized
+and regular interactions among structural units dictate virus
+architecture.
+
+The detailed views of nonenveloped virus particles pro-
+vided by X-ray crystallography emphasize just how well these
+protein shells provide protection of the genome during pas-
+sage from one host cell or organism to another. They have also
+identified several mechanisms by which identical or noniden-
+tical subunits can interact to form icosahedrally symmetric
+structures, and protein-protein interactions that stabilize larger
+virus particles with icosahedral symmetry. More-elaborate vi-
+rus particles, which may contain additional protein layers, a
+lipid envelope carrying viral proteins, and enzymes or other
+proteins necessary to initiate the infectious cycle, pose greater
+challenges to the structural biologist. Indeed, for many years
+we possessed only schematic views of these structures, de-
+duced from negative-contrast electron microscopy and bio-
+chemical or genetic methods of analysis. In previous editions,
+we noted the power and promise of continuing refinements in
+methods of cryo-EM (or cryo-electron tomography), image
+reconstruction, and difference imaging. These techniques
+have attained atomic- or near-atomic-level resolution, pro-
+viding remarkable views of large viruses with multiple com-
+ponents, viral envelopes, and, in some cases, the organization
+of genomes within particles. The structural descriptions of
+ever-increasing numbers of viruses representing diverse
+families have also allowed unique insights into evolutionary
+relationships among seemingly disparate viruses or viral
+proteins.
+
+These extraordinary advances notwithstanding, impor-
+tant challenges remain, most obviously the visualization of
+structures that do not exhibit simple symmetry (or are not
+constructed from components that do). These structures in-
+clude many genomes and the particles of some large viruses
+(e.g., poxviruses). The giant viruses, such as mimiviruses and
+pithoviruses, some with particles so large that they can be
+seen by light microscopy, also pose new technical challenges
+and intimate that unanticipated structural principles remain
+to be elucidated.
+

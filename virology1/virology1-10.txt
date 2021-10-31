@@ -1,0 +1,61 @@
+Structure 99
+
+Figure 4.7 Structure of a ribonucleoprotein-like complex of vesicular stoma-
+titis virus. Shown is the structure of a decamer of the N protein bound to RNA, deter-
+mined by X-ray crystallography, with alternating monomers in the ring colored red and
+blue and the RNA ribose-phosphate backbone depicted as a green tube. To allow visuali-
+zation of the RNA, the C-terminal domain of the monomer at the top center is not shown.
+‘The decamer was isolated by dissociation of the viral P protein from RNA-bound oligo-
+mers formed when the N and P proteins were synthesized in Escherichia coli. Although
+considerably smaller than N-RNA rings in the virus particles, this structure revealed
+how N protein molecules interact with the RNA genome and with one another. For ex-
+ample, the N-terminal extension and the extended loop in the C-terminal lobe contribute
+to the extensive interactions among neighboring N monomers. Adapted from Green TJ et
+al. 2006. Science 313:357-360, with permission. Courtesy of M. Luo, University of Ala-
+bama at Birmingham.
+
+ 
+
+Terminal
+NP loop
+
+\
+
+RNA polymerase
+
+ 
+
+Figure 4.8 Structure of an influenza A virus ribonucleoprotein. (A) (Left) Ribonucleoproteins (RNPs) were isolated from purified influenza
+A virus particles and examined by scanning transmission EM tomography. Shown is a single RNP segment, with the NP loops indicated by arrow-
+heads: most RNPs have the viral RNA polymerase bound at the end opposite the NP loop. Scale bar, 50 nm. Adapted from Sugita Y et al. 2013. J Virol
+87:12879-12884. Courtesy of Y. Kawoaka, University of Tokyo, Japan. (Right) Central and terminal regions of purified RNPs were analyzed separately
+following cryo-EM. This procedure was adopted to overcome the heterogeneity in length of individual RNPs and their flexibility. Class averaging of
+images of straight segments of central regions and three-dimensional reconstruction revealed that the RNA-binding NP protein forms a double helix
+closed by a loop at one end. The likely localization of the (-) strand genome RNA (yellow ribbon) was deduced from the surface electrostatic potential
+(left, with positive and negative charge shown in blue and red, respectively) and the positions of substitutions that impair binding of NP to RNA (blue
+in the model on the right). Reprinted from Arranz R et al. 2012. Science 338:1634-1637, with permission. Courtesy of J. Martin-Benito, Centro Nacio-
+nal de Biotecnologia, Madrid, Spain. (B) Non-uniform association of (-) strand RNA segments with the NP double helix is illustrated schematically,
+with the NP strands of opposite polarity shown in pale and dark tan; the RNA polymerase subunits at the other end in green, pink, and yellow; and
+the RNA shown in green. This mode of association, in which G-rich sequences in each RNA genome segment are more tightly bound, was deduced
+from high-throughput sequencing of RNA fragments bound to RNPs isolated by immunoprecipitation following UV cross-linking of influenza A vi-
+rus particles and limited RNase digestion of viral lysates. Adapted from Lee N et al. 2017. Nucleic Acids Res 45:8968-8977, with permission.
+
+Exceptionally large examples include the (+) strand RNA virus
+potato virus Y, up to 900 nm in length, and bacterial inovi-
+ruses, some twice as long, that contain single-stranded DNA
+genomes, Nevertheless, helical viruses are limited in size. Be-
+cause helical structures are “open,” some property other than
+symmetry must limit the size of helical viruses, perhaps the
+nature of their genomes (see Chapter 3) or susceptibility to
+shear forces.
+
+Capsids with Icosahedral Symmetry
+
+General Principles
+
+Icosahedral symmetry. Platonic solids are symmetrical
+forms in which each face is the same regular polygon and the
+same number of faces meet at each vertex. An icosahedron
+contains the largest number of faces (20), and 12 vertices re-
+lated by two-, three-, and fivefold axes of rotational symmetry
+

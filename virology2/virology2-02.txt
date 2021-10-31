@@ -1,0 +1,60 @@
+Structural Organization at
+unit fivefold axes
+
+A
+
+x60
+
+g
+®
+&
+
+a
+
+x60 x12
+x60 x12
+
+Structure 101
+
+Capsid Total number
+of subunits
+(607)
+QB °
+T=1
+180
+T=3
+
+ 
+
+T=13
+
+Figure 4.10 The principle of triangulation: formation of large capsids with icosahedral symmetry. The formation of faces of icosahe-
+dral particles by triangulation is illustrated by comparison of structural units, organization of structural units at fivefold axes of icosahedral sym-
+metry, and in capsids with the T number indicated below. In each case, the protein subunits are represented by trapezoids, with those that interact
+at the vertices colored purple and all others tan. It is important to appreciate that protein subunits are not, in fact, flat, as shown here for simplicity,
+but highly structured (see, for examples, Fig. 4.1] and 4.13). The interaction of subunits around the fivefold axes of symmetry and the capsid, with an
+individual face outlined in red, are shown for each value of T, to illustrate the increase in face and particle size with increasing T.
+
+Quasiequivalence. A second cornerstone of the theory
+developed by Caspar and Klug was the proposition that when
+a capsid contains >60 subunits, each occupies a quasiequiva-
+lent position; that is, the noncovalent bonding properties of
+subunits in different structural environments are similar,
+but not identical. This property is illustrated in Fig. 4.9C for a
+particle with 180 identical subunits. In the small, 60-subunit
+structure, 5 subunits make fivefold symmetric contact at each
+of the 12 vertices (Fig. 4.9B). In the larger assembly with 180
+subunits, this arrangement is retained at the 12 vertices, but
+
+the additional subunits are interposed to form clusters with
+sixfold symmetry (hexamers). In such a capsid, each subunit
+can be present in one of three different structural environ-
+ments (designated A, B, or C in Fig. 4.9C). Nevertheless, all
+subunits bond to their neighbors in similar (quasiequiv-
+alent) ways, for example, via head-to-head and tail-to-tail
+interactions.
+
+Capsid architectures corresponding to various values of T,
+some very large, have been reported. The triangulation num-
+ber and quasiequivalent bonding among subunits describe
+
