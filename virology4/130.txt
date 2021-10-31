@@ -1,0 +1,152 @@
+130
+
+Chapter 4
+
+STUDY QUESTIONS
+
+1. Icosahedral virus particles are NOT stabilized by:
+
+Specific “cement” or “glue” proteins
+
+Covalent bonds
+
+Interactions between adjacent protein layers
+
+. Transmembrane connections of envelope to capsid
+proteins
+
+e. None of the above
+
+aoe
+
+. Both picornaviruses (e.g., poliovirus) and polyomavi-
+
+ruses (e.g., simian virus 40) comprise small genomes
+
+packaged within icosahedral capsids.
+
+a. Indicate one similarity and two differences in the
+structures of poliovirus and simian virus 40 capsids
+
+b. Explain how ONE of these capsids does not con-
+form to the rules of quasiequivalence
+
+. Which of the following statements describes interac-
+
+tions among components of virus particles?
+
+a, Subunits usually associate via covalent bonds
+
+b. Each subunit has different bonding contacts with
+its neighbors
+
+c. Capsid subunits cannot interact with the internal
+viral genome
+
+d. Subunits usually associate noncovalently
+
+e. Subunit-subunit interactions are always sufficient
+to stabilize virus particles
+
+. Ithas long been known that virus particles can contain
+
+host cell molecules.
+
+a. Why is it difficult to be sure that host cell mole-
+cules found in enveloped virus particles are pack-
+aged specifically?
+
+b. If specific incorporation of a cellular protein into
+particles of a virus had been demonstrated, how
+would you investigate the functional importance
+of capture of the cellular protein?
+
+5. Viral envelopes:
+
+a. Are invariably derived from host cell membranes
+
+b. Contain viral glycoproteins with external and
+
+internal domains connected by transmembrane
+
+segments
+
+Can lie above or underneath a capsid
+
+d. Are generally impermeable to ions and charged
+molecules
+
+e. Allof the above
+
+9
+
+6. What are the three modes of packing viral genomes
+in virus particles? Give an example of each mode of
+packaging.
+
+7. Characteristic features of large virus particles do NOT
+include:
+
+a. Distinct parts with helical or icosahedral symmetry
+b. The presence of multiple viral enzymes
+
+c. Structures dedicated to exit of the viral genome
+
+d. More than a single membrane
+
+e. A large DNA or RNA genome
+
+8. Mature virus particles are said to be metastable.
+
+a. Explain what is meant by this term and why virus
+particles must be metastable
+
+b. Predict the consequences of a mutation that pre-
+cludes formation of metastable virus particles dur-
+ing assembly and maturation
+
+9. Which of the following statements about helical sym-
+metry is INCORRECT?
+
+a. Helical viruses can contain RNA or DNA genomes
+
+b. These genomes can be packaged by either special-
+ized nucleic acid binding proteins or direct contact
+with coat proteins
+
+c. Asthe structure of a helix is open, the largest known
+viruses display helical symmetry
+
+d. Helical viruses can be naked or enveloped
+
+Viral enzymes are present in many helical viruses
+
+that reproduce in animal cells
+
+10. You have recently isolated a virus associated with a hu-
+
+man disease. The virus particles are spherical, ~100 nm
+
+in diameter, and possess an envelope. Preliminary ge-
+
+nome sequence analysis suggests the virus is not related
+
+to known human viruses.
+
+a. Indicate how you would determine the structure of
+this virus, and the rationale for your choice of method
+
+b. Which protein topology would you be most likely
+to find in the major capsid protein?
+
+11. Subunits of viral capsid proteins are ~20 to 100 kDa.
+
+a. Explain how large icosahedral capsids can be as-
+sembled and how they differ from small capsids
+
+b. What feature(s), other than genetic economy, dic-
+tates that all capsids are built from only a very small
+number of major structural proteins?
+
+9
+
