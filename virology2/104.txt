@@ -1,74 +1,15 @@
-104 — Chapter 4
+Hình 4.11 Cấu trúc của vi rút liên kết với parvovirus adeno 2. (A) Sơ đồ dải băng của tiểu đơn vị lớp đơn của hạt T'= 1. Các vùng của đơn vị con tương tác xung quanh các trục 5, 3 và 2 được chỉ ra bởi các đường có nhãn 5, 3 và 2, tương ứng, của tính đối xứng nhị thập diện đều được hiển thị bằng màu xanh lam, xanh lục và vàng tương ứng. Các phân đoạn màu đỏ tạo thành các đỉnh chụm lại xung quanh các trục gấp ba. (B) Hình ảnh bề mặt của cấu trúc độ phân giải 3-A được xác định bằng phương pháp tinh thể học tia X của các hạt virus đã tinh sạch. Các vùng của các đơn vị con đơn lẻ mà từ đó vỏ capsid được tạo ra có màu như trong bảng A và một trong các mặt được tạo bởi ba đơn vị con được phác thảo bằng màu trắng. Phỏng theo Xie Q et al. 2002. Proc Natl Acad Sci US A 99: 10405-10410. Được sự cho phép của Michael Chapman, Đại học Bang Florida.
 
- 
 
-Figure 4.11 Structure of the parvovirus adeno-associated virus 2. (A) Ribbon diagram of the single coat subunit of the T'= 1 particle. The
-regions of the subunit that interact around the five-, three-, and twofold axes indicated by the lines labeled 5, 3, and 2, respectively, of icosahedral
-symmetry are shown in blue, green, and yellow, respectively. The red segments form peaks that cluster around the threefold axes. (B) Surface view of
-the 3-A-resolution structure determined by X-ray crystallography of purified virus particles. The regions of the single subunits from which the cap-
-sid is built are colored as in panel A, and one of the faces formed by three subunits is outlined in white. Adapted from Xie Q et al. 2002. Proc Natl Acad
-Sci US A 99:10405-10410. Courtesy of Michael Chapman, Florida State University.
 
-Adeno-associated virus 2: classic T = 1 icosahedral de-
-sign. The parvoviruses are very small animal viruses, with
-particles of ~25 nm in diameter that encase single-stranded
-DNA genomes of <5 kb. These small, naked capsids are built
-from 60 copies of a single subunit organized according to T=
-1 icosahedral symmetry. The protein that forms the subunits
-of adenovirus-associated virus type 2, a member of the de-
-pendovirus subgroup of parvoviruses (Appendix, Fig. 19),
-contains a core domain commonly found in viral capsid pro-
-teins (the B-barrel jelly roll; see next section), in which B-
-strands are connected by loops (Fig. 4.11A). Interactions
-among neighboring subunits are mediated by these loops.
-‘The prominent projections near the threefold axes of rota-
-tional symmetry (Fig. 4.11B), which have been implicated in
-receptor binding, are formed by extensive interdigitation
-among the loops from adjacent subunits. Adenovirus-associ-
-ated virus vectors have proved valuable in human gene ther-
-apy (Volume II, Chapter 9), in part because variations in the
-sequences of these loops confer differences in tissue tropism.
+Virus liên kết với Adeno 2: thiết kế hình nhị thập diện đều T = 1 cổ điển. Các parvovirus là những virus động vật rất nhỏ, với các hạt đường kính ~25nm bao bọc bộ gen DNA sợi đơn có kích thước <5kb. Những vỏ capsid nhỏ, trần trụi này được tạo ra từ 60 bản sao của một đơn vị con đơn lẻ được tổ chức theo tính đối xứng nhị thập diện đều T = 1. Protein tạo thành các tiểu đơn vị của virus liên quan với adenovirus loại 2, một thành viên của phân nhóm phụ thuộc virus parvovirus (Phụ lục, Hình 19), chứa vùng lõi thường được tìm thấy trong các protein capsid của virus (cuộn thạch thùng B; xem tiếp theo), trong đó các sợi B được nối với nhau bằng các vòng (Hình 4.11A). Sự tương tác giữa các đơn vị con lân cận được kết nối bởi các vòng lặp này. ‘Các hình chiếu nổi bật gần trục đối xứng quay 3-nếp gấp (Hình 4.11B), có liên quan đến liên kết thụ thể, được hình thành bởi sự xen kẽ rộng rãi giữa các vòng từ các tiểu đơn vị lân cận. Các vector virus liên quan đến Adenovirus đã tỏ ra có giá trị trong liệu pháp gen người (Tập II, Chương 9), một phần là do các biến thể trong trình tự của các vòng này tạo ra sự khác biệt trong tính dinh dưỡng của mô.
 
-Poliovirus: a T = 3 structure. As their name implies, the
-picornaviruses are among the smallest of animal viruses. In
-contrast to the T = 1 parvoviruses, the ~30-nm-diameter po-
-liovirus particle is composed of 60 copies of a multimeric
-structural unit. It contains a (+) strand RNA genome of ~7.5 kb
-and its covalently attached 5’-terminal protein, VPg (Appen-
-dix, Fig. 21). Our understanding of the architecture of the
-Picornaviridae took a quantum leap in 1985 with the deter-
-mination of high-resolution structures of human rhinovirus
-14 and poliovirus.
 
-The heteromeric structural unit of the poliovirus capsid
-contains one copy each of VPI, VP2, VP3, and VP4. The VP4
-protein is synthesized as an N-terminal extension of VP2 and
-restricted to the inner surface of the particle. The poliovirus
-capsid is built from asymmetric units that contain one copy
-of each of three different proteins (VP1, VP2, and VP3), and
-is therefore described as a pseudo T'= 3 structure (Fig. 4.12A).
-Although these three proteins are not related in amino acid
-sequence, all contain a central B-sheet structure termed a B-
-barrel jelly roll. The arrangement of B-strands in these B-
-barrel proteins is illustrated schematically in Fig. 4.12B, for
-comparison with the actual structures of VPI, VP2, and VP3.
-As can be seen in the schematic, two antiparallel B-sheets
-form a wedge-shaped structure. The protein backbones in B-
-barrel domains of VP1, VP2, and VP3 are folded in the same
-way; that is, they possess the same topology, and the differ-
-ences among these proteins are restricted largely to the loops
-that connect B-strands and to the N- and C-terminal seg-
-ments that extend from the central B-barrel domains.
 
-The B-barrel jelly roll conformation of these picornaviral
-proteins is also seen in the core domains of capsid proteins of
-a number of plant, insect, and vertebrate (+) strand RNA vi-
-ruses, such as tomato bushy stunt virus and Nodamura virus.
-This structural conservation was entirely unanticipated. Even
-more remarkably, this relationship is not restricted to small
-RNA viruses: the major capsid proteins of the DNA-containing
-parvoviruses and polyomaviruses also contain a B-barrel do-
-main, and two such domains form the major capsid proteins of
-larger DNA-containing viruses, such as adenoviruses and
-mimiviruses. It is well established that the three-dimensional
-
+Poliovirus: cấu trúc T = 3. Như tên gọi của chúng, picornavirus là một trong những loại virus nhỏ nhất trong số các loại virus động vật. Trái ngược với các parvovirus T = 1, hạt poliovirus có đường kính ~30nm bao gồm 60 bản sao của một đơn vị cấu trúc đa phân tử. Nó chứa bộ gen RNA sợi (+) có kích thước ~7,5kb và protein đầu tận cùng 5' được gắn cộng hóa trị của nó, VPg (Phụ lục, Hình 21). Sự hiểu biết của chúng tôi về kiến trúc của họ Picornaviridae đã có một bước nhảy vọt về lượng tử vào năm 1985 với việc xác định cấu trúc có độ phân giải cao ở virushinovirus 14 và virus bại liệt.
+
+
+Đơn vị cấu trúc vỏ capsid không thuần nhất của virus poliovirus chứa một bản sao của mỗi VPI, VP2, VP3 và VP4. Protein VP4 được tổng hợp như một phần mở rộng ở đầu N của VP2 và giới hạn ở bề mặt bên trong của hạt. Capsid của poliovirus được xây dựng từ các đơn vị không đối xứng chứa một bản sao của mỗi loại trong số ba protein khác nhau (VP1, VP2 và VP3), và do đó được mô tả là cấu trúc giả T' = 3 (Hình 4.12A). Mặc dù ba loại protein này không liên quan đến trình tự axit amin, nhưng tất cả đều chứa cấu trúc tấm B trung tâm được gọi là cuộn thạch hình thùng B. Sự sắp xếp của các sợi B trong các protein thùng B này được minh họa bằng sơ đồ trong Hình 4.12B, để so sánh với các cấu trúc thực tế của VPI, VP2 và VP3. Như có thể thấy trong giản đồ, hai tấm B đối song nhau tạo thành một cấu trúc hình nêm. Các xương sống của protein trong vùng thùng B của VP1, VP2 và VP3 được gấp lại theo cùng một kiểu topo; nghĩa là, chúng có cùng một cấu trúc liên kết và sự khác biệt giữa các protein này bị hạn chế phần lớn ở các vòng kết nối các sợi B và với các đoạn đầu N và C kéo dài từ các miền trung tâm của thùng B.
+
+
+Cấu trúc cuộn thạch thùng B của các protein picornaviral này cũng được nhìn thấy trong vùng lõi của protein capsid của một số vi rút RNA sợi (+) thực vật, côn trùng và động vật có xương sống, chẳng hạn như vi rút còi cọc cà chua và vi rút Nodamura. Sự bảo tồn cấu trúc này hoàn toàn không nằm ngoài dự đoán. Đáng chú ý hơn, mối quan hệ này không bị giới hạn đối với các vi rút RNA nhỏ: các protein capsid chính của các parvovirus và polyomavirus chứa DNA cũng chứa miền thùng B, và hai miền như vậy tạo thành các protein capsid chính của các virus chứa DNA lớn hơn, chẳng hạn như adenovirus và mimivirus. Nó được thiết lập tốt đến nỗi ba chiều
