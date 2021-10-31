@@ -1,137 +1,28 @@
-102
-
-Chapter 4
-
- 
-
 BACKGROUND
 
-‘The triangulation number, T, and how it is determined
+Số tam giác, T, và cách xác định
 
-In developing their theories about virus struc-
-ture, Caspar and Klug used graphic illustra-
-tions of capsid subunits, such as the net of flat
-hexagons shown at the top left of panel A in the
-figure. Each hexagon represents a hexamer,
-with identical subunits shown as equilateral
-triangles. When all subunits assemble into
-such hexamers, the result is a flat sheet, or lat-
-tice, which can never form a closed structure.
-To introduce curvature, and hence form three-
-dimensional structures, one triangle is re-
-moved from a hexamer to form a pentamer in
-which the vertex and faces project above the
-plane of the original lattice (A, far right). As an
-icosahedron has 12 axes of fivefold symmetry,
-12 pentamers must be introduced to form a
-closed structure with icosahedral symmetry. If
-12 adjacent hexamers are converted to pen-
-tamers, an icosahedron of the minimal size
-possible for the net is formed. This structure is
-built from 60 equilateral-triangle asymmetric
-units and corresponds to a T = 1 icosahedron
-(Fig. 4.9B). Larger structures with icosahedral
-symmetry are built by including a larger num-
-ber of equilateral triangles (subunits) per face
-(Fig. 4.10). In the hexagonal lattice, this is
-equivalent to converting 12 nonadjacent hex-
-amers to pentamers at precisely spaced and
-regular intervals.
 
-To illustrate this operation, we use nets in
-which an origin (0) is fixed and the positions
-of all other hexamers are defined by the coor-
-dinates along the axes labeled h and k, where h
-and kare any positive integer (A, left). The hex-
-amer (h, k) is therefore defined as that reached
-from the origin (O) by h steps in the direction
-of the h axis and k steps in the direction of the
-kaxis. In the T'= 1 structure, h = 1 and k= 0 (or
-h = 0 and k = 1), and adjacent hexamers are
-converted to pentamers. When h = 1 and k= 1,
-pentamers are separated by one step in the h
-and one step in the k direction. Similarly, when
-h = 2and k = 0 (or vice versa), two steps in a
-single direction separate the pentamers.
+Trong quá trình phát triển lý thuyết về cấu trúc virus, Caspar và Klug đã sử dụng minh họa hình ảnh của vỏ capsid đơn vị con, chẳng hạn như lưới các lục giác được thể hiện trong góc phía trên bên trái của bảng A trong hình vẽ bên. Mỗi lục giác đại diện cho một bộ sáu (hexamer), với các đơn vị con giống hệt nhau được thể hiện thành các tam giác đều. Khi tất cả các đơn vị con hợp lại thành một bộ sáu, thứ thu được là một tấm phẳng, hay lưới, cấu trúc này không bao giờ có thể tạo nên một cấu trúc đóng. Để tạo ra độ cong, và từ đó có thể tạo thành cấu trúc ba chiều, một tam giác phải bị loại bỏ khỏi một bộ sáu để tạo thành một bộ năm, trong đó các đỉnh và mặt chiếu lên mặt phẳng của lưới ban đầu (A, ngoài cùng bên phải). Do một hình nhị thập diện đều có 12 trục đối xứng 5-nếp gấp, phải có 12 bộ năm để có thể tạo ra một cấu trúc đóng với tính đối xứng nhị thập diện đều. Nếu 12 bộ sáu kề nhau được chuyển thành bộ năm, một hình nhị thập diện đều với kích thước nhỏ nhất có thể cho một lưới sẽ được tạo ra. Cấu trúc này được xây dựng từ 60 đơn vị tam-giác-đều bất đối xứng và tương ứng với một nhị thập diện đều T = 1 (Hình 4.9B). Các cấu trúc lớn hơn với tính đối xứng nhị thập diện đều được xây dựng bằng các bổ sung nhiều tam giác đều (các đơn vị con) hơn cho mỗi mặt (Hình 4.10). Trong lưới lục giác, điều này tương đương với việc chuyển 12 bộ sáu không kề nhau thành các bộ năm với khoảng cách chính xác và đều.
 
-‘The triangulation number, T, is the num-
-ber of asymmetric units per face of the icosa-
-hedron constructed in this way. It can be
-shown, for example by geometry, that
 
-T=h+hk+k
-‘Therefore, when both h and k are 1, T = 3, and
-each face of the icosahedron contains three
-asymmetric units. The total number of units,
-which must be 607, is 180. When T = 4, there
-are four asymmetric units per face and a total
-of 240 units (Fig. 4.10).
 
- 
+Để minh họa quy trình này, chúng ta sử dụng các lưới, trong đó một gốc tọa độ (O) được cố định và vị trí của tất cả các bộ sáu khác được xác định bằng tọa độ dọc theo các trong h và k, trong đó h và k là bất kỳ số nguyên dương nào (A, bên trái). Một bộ sáu (h, k) do đó được xác định từ việc đi từ bộ sáu đó đến gốc tọa độ (O) bằng h bước theo hướng của trục h và k bước theo hướng của trục k. Trong cấu trúc T' = 1, h = 1 và k = 0 (hoặc h = 0 và k = 1), và các bộ sáu kề nhau được chuyển thành các bộ năm. Khi h = 1 và k = 1, các bộ năm được tách thành từng bước một theo trục h và từng bước một theo trục k. Tương tự, khi h = 2 và k = 0 (hoặc ngược lại), hai bước trong một hướng duy nhất sẽ tách các bộ năm.
 
- 
 
- 
+Số tam giác, T, là số đơn vị không đối xứng trên mỗi mặt của khối nhị thập diện đều được xây dựng theo cách này. Ví dụ, bằng hình học có thể chỉ ra rằng T = h + hk + k. Do đó, khi cả h và k đều là 1 thì T = 3, và mỗi mặt của hình tứ diện chứa ba đơn vị bất đối xứng. Tổng số đơn vị, phải là 60T, bằng 180. Khi T = 4, có bốn đơn vị bất đối xứng trên mỗi mặt và tổng số là 240 đơn vị (Hình 4.10).
 
- 
 
- 
 
-&
+<img></img>
 
- 
 
-B P22,T=7
+Vì các số nguyên h và k mô tả các mối quan hệ về khoảng cách và không gian của các bộ năm, tức là của 5 đỉnh trong khối hình nhị thập diện đều tương ứng, giá trị của chúng có thể được xác định bằng cách kiểm tra các ảnh hiển vi điện tử của các phần tử virus hoặc các thành phần của chúng (B). Ví dụ, trong capsid p22 của thực khuẩn thể (B, trên cùng), một bộ năm được phân tách với một bộ năm khác hai bước dọc theo trục h và một bước dọc theo trục k, như được minh họa cho pentamer dưới cùng bên trái được hiển thị. Do đó, h = 2, k = 1 và T = 7. Ngược lại, các pentamer của nucleocapsid loại 1 (HSV-1) virus herpes simplex (dưới cùng) được phân cách bằng bốn và không bước lần lượt dọc theo hướng của trục h và k. Do đó, h = 4, k = 0 và T = 16.
 
-  
 
-oT = (2? + (2)(1) + (1)? =
 
-HSV-1, T = 16 k
+Ứng dụng gần đây của các nguyên tắc được Caspar và Klug áp dụng cho các mạng đồng nhất khác có thể hình thành các nhị thập diện đều đã tổng quát hóa lý thuyết về tính gần tương đương để tính đến cấu trúc của các hạt virus xuất hiện như một ngoại lệ, ví dụ, vỏ protein T = 2.
 
- 
 
-2. T= (4)? + (4)(0) + (0)? = 16
+Ảnh hiển vi điện tử lạnh lần lượt của thực khuẩn p22 và HSV-1 do BV.V. Prasad và W. Chiu, Đại học Y Baylor cung cấp.
 
-As the integers h and k describe the spac-
-ing and spatial relationships of pentamers,
-that is, of fivefold vertices in the correspond-
-ing icosahedra, their values can be deter-
-mined by inspection of electron micrographs
-of virus particles or their constituents (B).
-For example, in the bacteriophage p22 capsid
-(B, top), one pentamer is separated from an-
-other by two steps along the h axis and one
-step along the k axis, as illustrated for the
-bottom left pentamer shown. Hence, h = 2, k
-= 1, and T =7. In contrast, pentamers of the
-herpes simplex virus type 1 (HSV-1) nucleo-
-capsid (bottom) are separated by four and
-
- 
-
- 
-
- 
-
- 
-
- 
-
-zero steps along the directions of the h and k
-axes, respectively. Therefore, h = 4, k= 0, and
-T=16.
-
-Recent application of the principles ap-
-plied by Caspar and Klug to other uniform
-lattices that can form icosahedra has general-
-ized the theory of quasiequivalence to ac-
-count for structures of virus particles that
-appeared as exception, for example, T = 2
-protein shells.
-
-Cryo-electron micrographs of bacterio-
-phage p22 and HSV-1 courtesy of BV.V. Prasad
-and W. Chiu, Baylor College of Medicine,
-respectively.
-

@@ -16,24 +16,21 @@ BED
 Threefold Fivefold Twofold
 </img>
 
-<!-- caption -->  
-<p>
+
 Hình 4.9. Hình nhị thập diện đều được đặt trong các cấu trúc đơn giản. (A) Một hình nhị thập diện đều, được ghép từ 20 mặt tam giác đều được đặc trưng bởi vị trí của các phép đối xứng quay 5-, 3-, và 2-lần. Ba góc nhìn ở dưới cùng của hình minh họa ba vị trí này. (B và C) Một dấu phẩy đại diện cho một phân tử protein duy nhất, và các trục của phép đối xứng quay được biểu thị bằng một bản (panel) A. Trong trường hợp đơn giản nhất, T=1 (hình B), phân tử protein tạo thành cấu trúc đơn vị, và mỗi 60 phân tử được liên hệ tới lân cận của chúng bằng các trục đối xứng quay 2-, 3-, và 5-lần, những trục này xác định cấu trúc đối xứng của hình nhị thập diện đều. Trong một cấu trúc nhị thập diện đều đơn giản như vậy, các tương tác giữa tất cả phân tử với lân cận của chúng là như nhau. Trong cấu trúc T=3 (hình C) với 180 đơn vị con protein giống hệt nhau, có ba cách lồng một đơn vị con (được thể hiện bằng màu cam, vàng, và tím): một bộ ba (được tô viền màu xanh da trời) là một đơn vị không đối xứng, khi được sao chép theo như 60-nếp gấp đối xứng của hình nhị thập diện đều, sẽ tạo ra một cấu trúc hoàn chỉnh. Đơn vị con màu cam đại diện cho bộ năm, được tạo thành từ các tương tác đuôi-tới-đuối, và tương tác trong vòng gồm ba (đầu-tới-đầu) với các đơn vị con tím và vàng, và theo cặp (đầu-tới-đầu) với một đơn vị tím hoặc vàng. Các đơn vị tím và vàng được sắp xếp trên các vòng sáu phân tử (bởi các tương tác đuôi-tới-đuôi) thay phiên nhau trong hạt (particle). Bất chấp những khác biệt về cách đóng gói này, các tương tác liên kết mà mỗi đơn vị con tham gia là tương tự nhau, tức là, gần tương đương: chẳng hạn, tất cả tham gia vào các tương tác đuôi-tới-đuôi và đầu-tới-đầu. Phần này phỏng theo Harrison SC. 1984. Trends Biochem Sci 9:345-351, đã được cho phép.
-</p>
 
-<p>
+
+
 (Hình 4.9A). Trong một vài trường hợp các hạt virus có thể đã có sẵn hình dạng nhị thập diện đều (chẳng hạn, xem Hình 4.16A và 4.26). Tuy nhiên, hầu hết các nắp đậy kín trông có hình cầu và chúng thường có các đặc điểm bề mặt nổi bật hoặc các glycoprotein virus trong lớp vỏ không tuân theo đối xứng hình nhị thập diện đều bên dưới của vỏ capsid. Tuy nhiên, đối xứng mà các đơn vị cấu trúc tương tác với nhau là đối xứng của một khối nhị thập diện đều.
-</p>
 
-<p>
+
+
 Trong hình học không gian, mỗi mặt trong số 20 mặt của hình nhị thập diện đều là một tam giác đều, và năm tam giác như vậy chạm nhau ở mỗi 12 đỉnh (Hình 4.9A). Trong các vỏ protein đơn giản nhất, một bộ ba của một protein virus đơn lẻ (đơn vị con) tương ứng với mỗi mặt hình tam giác của hình nhị thập diện đều: như trong Hình 4.9B, các bộ ba như vậy tương tác với một bộ ba khác tại một trục đối xứng quay 5-, 3-, và 2-lần xác định một hình nhị thập diện đều. Do một hình nhị thập diện đều có 20 mặt, 60 đơn vị con giống nhau (3 đơn vị con mỗi mặt x 20 mặt) là con số nhỏ nhất cần để xây dựng một vỏ capsid với cấu trúc đối xứng hình nhị thập diện đều.
-<p/>
 
-<p>
-<b>Vỏ capsid lớn và liên kết gần tương đương.</b> Trong cách xếp nhị thập diện đều đơn giản nhất, mỗi đơn vị con trong số 60 đơn vị con (đơn vị cấu trúc hoặc bất đối xứng) bao gồm một phân tử đơn lẻ trong một môi trường giống nhau về cấu trúc (Hình 4.9B). Do đó, tất cả các đơn vị con tương tác với các lân cận của chúng theo cách giống hệt nhau (hoặc <b>tương đương</b>), giống như các đơn vị con của các hạt xoắn, chẳng hạn như của virus khảm thuốc lá. Vì các protein virus tạo thành các lớp vỏ kín như vậy thường có khối lượng phân tử <- 100 kDa, kích thước của bộ gen virus có thể chứa trong loại hạt đơn giản nhất này bị hạn chế nghiêm trọng. Để tạo ra các vỏ capsid lớn hơn, các đơn vị con bổ sung phải được bổ sung. Thật vậy, phần lớn các virus động vật được xây dựng từ hơn 60 đơn vị con và có thể chứa bộ gen rất lớn. Năm 1962, Donald Caspar và Aaron Klug
-đã phát triển một mô hình lý thuyết tính đến các đặc tính của các hạt lớn hơn với tính đối xứng nhị thập diện đều. Lý thuyết này đã có một ảnh hưởng to lớn đến cách kiến trúc virus được mô tả và diễn giải.
-</p>
 
-<p>
-<b>Số tam giác, T.</b> Một ý tưởng quan trọng được giới thiệu bởi Caspar và Klug là tam giác, mô tả mặt tam giác của một khối nhị thập diện đều lớn theo mặt chia nhỏ của nó thành các tam giác nhỏ hơn được gọi là các facet (Hình 4.10). Quá trình này được mô tả bằng số tam giác, T, đưa ra số lượng "tam giác" nhỏ (được gọi là đơn vị cấu trúc) trên mỗi mặt (Hộp 4.3). Vì số lượng đơn vị cấu trúc tối thiểu cần có là 60, nên tổng số đơn vị con trong cấu trúc là 60T.
-</p>
+
+Vỏ capsid lớn và liên kết gần tương đương. Trong cách xếp nhị thập diện đều đơn giản nhất, mỗi đơn vị con trong số 60 đơn vị con (đơn vị cấu trúc hoặc bất đối xứng) bao gồm một phân tử đơn lẻ trong một môi trường giống nhau về cấu trúc (Hình 4.9B). Do đó, tất cả các đơn vị con tương tác với các lân cận của chúng theo cách giống hệt nhau (hoặc tương đương), giống như các đơn vị con của các hạt xoắn, chẳng hạn như của virus khảm thuốc lá. Vì các protein virus tạo thành các lớp vỏ kín như vậy thường có khối lượng phân tử <- 100 kDa, kích thước của bộ gen virus có thể chứa trong loại hạt đơn giản nhất này bị hạn chế nghiêm trọng. Để tạo ra các vỏ capsid lớn hơn, các đơn vị con bổ sung phải được bổ sung. Thật vậy, phần lớn các virus động vật được xây dựng từ hơn 60 đơn vị con và có thể chứa bộ gen rất lớn. Năm 1962, Donald Caspar và Aaron Klug đã phát triển một mô hình lý thuyết tính đến các đặc tính của các hạt lớn hơn với tính đối xứng nhị thập diện đều. Lý thuyết này đã có một ảnh hưởng to lớn đến cách kiến trúc virus được mô tả và diễn giải.
+
+
+
+Số tam giác, T. Một ý tưởng quan trọng được giới thiệu bởi Caspar và Klug là tam giác, mô tả mặt tam giác của một khối nhị thập diện đều lớn theo mặt chia nhỏ của nó thành các tam giác nhỏ hơn được gọi là các facet (Hình 4.10). Quá trình này được mô tả bằng số tam giác, T, đưa ra số lượng "tam giác" nhỏ (được gọi là đơn vị cấu trúc) trên mỗi mặt (Hộp 4.3). Vì số lượng đơn vị cấu trúc tối thiểu cần có là 60, nên tổng số đơn vị con trong cấu trúc là 60T.

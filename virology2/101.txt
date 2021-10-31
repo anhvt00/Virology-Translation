@@ -1,60 +1,12 @@
-Structural Organization at
-unit fivefold axes
+<img></img>
 
-A
 
-x60
+Hình 4.10. Nguyên lý tam giác: sự hình thành các capsid lớn với tính đối xứng nhị thập diện đều. Sự hình thành các mặt của các hạt nhị thập diện đều bằng phương pháp tam giác được minh họa bằng cách so sánh các đơn vị cấu trúc, tổ chức của các đơn vị cấu trúc tại các trục 5-nếp gấp của tính đối xứng hình nhị thập diện đều và trong các vỏ với với số T được biểu thị bên dưới. Trong mỗi trường hợp, các đơn vị con protein được biểu diễn bằng các hình thang, với các đơn vị tương tác ở các đỉnh có màu tím và tất cả các đơn vị khác có màu nâu. Điều quan trọng là phải đánh giá cao rằng trên thực tế, các đơn vị con protein không phẳng, như được trình bày ở đây vì sự đơn giản, nhưng có cấu trúc cao (xem ví dụ, Hình 4.11 và 4.13). Sự tương tác của các đơn vị con xung quanh trục đối xứng 5-nếp gấp và vỏ capsid, với một mặt được tô màu đỏ, được thể hiện cho mỗi giá trị của T, để minh họa sự gia tăng của mặt và kích thước hạt khi T tăng lên.
 
-g
-®
-&
 
-a
 
-x60 x12
-x60 x12
+Tính gần tương đương. Nền tảng thứ hai của lý thuyết do Caspar và Klug phát triển là mệnh đề rằng khi một capsid chứa > 60 đơn vị con, mỗi đơn vị chiếm một vị trí gần tương đương; tức là, các tính chất liên kết không cộng hóa trị của các đơn vị con trong các môi trường cấu trúc khác nhau là tương tự, nhưng không giống hệt nhau. Tính chất này được minh họa trong Hình 4.9C cho một hạt có 180 đơn vị con giống nhau. Trong cấu trúc 60 đơn vị con nhỏ, 5 đơn vị con tiếp xúc đối xứng 5-nếp gấp tại mỗi đỉnh trong số 12 đỉnh (Hình 4.9B). Trong tập hợp lớn hơn với 180 đơn vị con, sự sắp xếp này được giữ lại ở 12 đỉnh, nhưng các đơn vị con bổ sung được xen kẽ để tạo thành các cụm với đối xứng gấp sáu (hexamers). Trong một vỏ capsid như vậy, mỗi đơn vị con có thể có mặt trong một trong ba môi trường cấu trúc khác nhau (được ký hiệu A, B hoặc C trong Hình 4.9C). Tuy nhiên, tất cả các đơn vị con liên kết với các lân cận của chúng theo những cách tương tự (gần tương đương), ví dụ, thông qua các tương tác đầu-tới-đầu và đuôi-tới-đuôi.
 
-Structure 101
 
-Capsid Total number
-of subunits
-(607)
-QB °
-T=1
-180
-T=3
 
- 
-
-T=13
-
-Figure 4.10 The principle of triangulation: formation of large capsids with icosahedral symmetry. The formation of faces of icosahe-
-dral particles by triangulation is illustrated by comparison of structural units, organization of structural units at fivefold axes of icosahedral sym-
-metry, and in capsids with the T number indicated below. In each case, the protein subunits are represented by trapezoids, with those that interact
-at the vertices colored purple and all others tan. It is important to appreciate that protein subunits are not, in fact, flat, as shown here for simplicity,
-but highly structured (see, for examples, Fig. 4.1] and 4.13). The interaction of subunits around the fivefold axes of symmetry and the capsid, with an
-individual face outlined in red, are shown for each value of T, to illustrate the increase in face and particle size with increasing T.
-
-Quasiequivalence. A second cornerstone of the theory
-developed by Caspar and Klug was the proposition that when
-a capsid contains >60 subunits, each occupies a quasiequiva-
-lent position; that is, the noncovalent bonding properties of
-subunits in different structural environments are similar,
-but not identical. This property is illustrated in Fig. 4.9C for a
-particle with 180 identical subunits. In the small, 60-subunit
-structure, 5 subunits make fivefold symmetric contact at each
-of the 12 vertices (Fig. 4.9B). In the larger assembly with 180
-subunits, this arrangement is retained at the 12 vertices, but
-
-the additional subunits are interposed to form clusters with
-sixfold symmetry (hexamers). In such a capsid, each subunit
-can be present in one of three different structural environ-
-ments (designated A, B, or C in Fig. 4.9C). Nevertheless, all
-subunits bond to their neighbors in similar (quasiequiv-
-alent) ways, for example, via head-to-head and tail-to-tail
-interactions.
-
-Capsid architectures corresponding to various values of T,
-some very large, have been reported. The triangulation num-
-ber and quasiequivalent bonding among subunits describe
-
+Các kiến trúc Capsid tương ứng với các giá trị khác nhau của T, một số rất lớn, đã được báo cáo. Số lượng tam giác và liên kết gần tương đương giữa các đơn vị con mô tả
